@@ -1,0 +1,3138 @@
+[
+  {
+    "id": 1591849370916,
+    "visibility": true,
+    "collapse": false,
+    "settings": {
+      "admin_label": "",
+      "title": "",
+      "heading_selector": "h3",
+      "title_fontsize": "",
+      "title_fontweight": "",
+      "title_position": "sppb-text-center",
+      "columns_align_center": 0,
+      "columns_content_alignment": "center",
+      "fullscreen": 0,
+      "no_gutter": 0,
+      "container_width": {
+        "unit": "px"
+      },
+      "container_max_width": {
+        "unit": "px"
+      },
+      "container_min_width": {
+        "unit": "px"
+      },
+      "row_width": {
+        "unit": "px"
+      },
+      "row_max_width": {
+        "unit": "px"
+      },
+      "row_min_width": {
+        "unit": "px"
+      },
+      "padding": {
+        "md": "50px 0px 20px 0px",
+        "sm": "   ",
+        "xs": "   "
+      },
+      "margin": {
+        "md": "0px 0px 0px 0px",
+        "sm": "   ",
+        "xs": "   "
+      },
+      "background_type": "color",
+      "background_gradient": {
+        "color": "#00c6fb",
+        "color2": "#005bea",
+        "deg": "45",
+        "type": "linear"
+      },
+      "background_image": {
+        "src": ""
+      },
+      "background_parallax": "0",
+      "background_repeat": "no-repeat",
+      "background_size": "cover",
+      "background_size_custom": {
+        "unit": "px"
+      },
+      "background_attachment": "fixed",
+      "background_position": "0 0",
+      "background_position_custom_x": {
+        "unit": "px"
+      },
+      "background_position_custom_y": {
+        "unit": "px"
+      },
+      "external_background_video": "0",
+      "background_video_mp4": {
+        "src": ""
+      },
+      "background_video_ogv": {
+        "src": ""
+      },
+      "video_loop": 1,
+      "overlay_type": "overlay_none",
+      "gradient_overlay": {
+        "color": "rgba(127, 0, 255, 0.8)",
+        "color2": "rgba(225, 0, 255, 0.7)",
+        "deg": "45",
+        "type": "linear"
+      },
+      "pattern_overlay": "",
+      "overlay_pattern_color": "",
+      "blend_mode": "normal",
+      "row_border": 0,
+      "row_border_style": "",
+      "row_border_radius": {
+        "md": "0",
+        "sm": "",
+        "xs": ""
+      },
+      "row_boxshadow": {
+        "ho": "0",
+        "vo": "",
+        "blur": "0",
+        "spread": "",
+        "color": "",
+        "inset": false
+      },
+      "show_top_shape": 0,
+      "shape_name": "zigzag-sharp",
+      "shape_color": "#e5e5e5",
+      "shape_width": {
+        "md": "100",
+        "sm": 100,
+        "xs": 100
+      },
+      "shape_height": {
+        "md": "120",
+        "sm": "",
+        "xs": ""
+      },
+      "shape_flip": 0,
+      "shape_invert": 0,
+      "shape_to_front": 1,
+      "show_bottom_shape": 0,
+      "bottom_shape_name": "zigzag-sharp",
+      "bottom_shape_color": "#ffffff",
+      "bottom_shape_width": {
+        "md": "100",
+        "sm": 100,
+        "xs": 100
+      },
+      "bottom_shape_height": {
+        "md": "111",
+        "sm": "",
+        "xs": ""
+      },
+      "bottom_shape_flip": false,
+      "bottom_shape_invert": false,
+      "bottom_shape_to_front": 0,
+      "hidden_xs": 0,
+      "hidden_sm": 0,
+      "hidden_md": 0,
+      "animationduration": "300",
+      "animationdelay": "0",
+      "background_color": "#f0f7f7",
+      "color": "#424A4F",
+      "instFormId": 1591849370916,
+      "row_border_width": {
+        "md": "   ",
+        "sm": "   ",
+        "xs": "   "
+      }
+    },
+    "layout": "12",
+    "columns": [
+      {
+        "id": 1591849370915,
+        "class_name": "col-md-12",
+        "visibility": true,
+        "settings": {
+          "background_type": "none",
+          "background_gradient": {
+            "color": "#00c6fb",
+            "color2": "#005bea",
+            "deg": "45",
+            "type": "linear"
+          },
+          "background_image": {
+            "src": ""
+          },
+          "background_repeat": "no-repeat",
+          "background_size": "cover",
+          "background_attachment": "scroll",
+          "background_position": "0 0",
+          "overlay_type": "overlay_color",
+          "gradient_overlay": {
+            "color": "rgba(127, 0, 255, 0.8)",
+            "color2": "rgba(225, 0, 255, 0.7)",
+            "deg": "45",
+            "type": "linear"
+          },
+          "pattern_overlay": {
+            "src": ""
+          },
+          "overlay_pattern_color": "",
+          "blend_mode": "normal",
+          "items_align_center": 0,
+          "items_content_alignment": "center",
+          "use_border": 0,
+          "border_width": "",
+          "border_radius": 0,
+          "boxshadow": "0 0 0 0 #fff",
+          "sm_col": "",
+          "xs_col": "",
+          "tablet_order": "",
+          "mobile_order": "",
+          "hidden_xs": "",
+          "hidden_sm": "",
+          "hidden_md": "",
+          "animationduration": "300",
+          "animationdelay": "0",
+          "padding": {
+            "md": "   ",
+            "sm": "   ",
+            "xs": "   "
+          },
+          "margin": {
+            "md": "   ",
+            "sm": "   ",
+            "xs": "   "
+          },
+          "background": "#f0f7f7",
+          "color": ""
+        },
+        "addons": [
+          {
+            "id": 1638345738045,
+            "name": "heading",
+            "visibility": true,
+            "settings": {
+              "admin_label": "",
+              "title": "آلة غسل الزجاج العمودية – بارتفاعات 1800 و2000 و2200 مم",
+              "heading_selector": "h2",
+              "use_link": 0,
+              "title_link": "",
+              "link_new_tab": "",
+              "title_fontsize": "",
+              "title_lineheight": "",
+              "title_letterspace": "0",
+              "custom_letterspacing": "",
+              "title_text_transform": "none",
+              "title_margin": {
+                "md": " 0px 30px 0px",
+                "sm": "   ",
+                "xs": "   "
+              },
+              "title_padding": {
+                "md": "0px 0px 0px 0px",
+                "sm": "   ",
+                "xs": "   "
+              },
+              "title_icon_position": "before",
+              "alignment": "sppb-text-center",
+              "title_text_shadow": "",
+              "class": "",
+              "global_background_type": "none",
+              "global_background_gradient": {
+                "color": "#00c6fb",
+                "color2": "#005bea",
+                "deg": "45",
+                "type": "linear"
+              },
+              "global_background_image": {
+                "src": ""
+              },
+              "global_background_repeat": "no-repeat",
+              "global_background_size": "cover",
+              "global_background_attachment": "inherit",
+              "global_background_position": "50% 50%",
+              "global_use_overlay": 0,
+              "global_overlay_type": "overlay_none",
+              "global_gradient_overlay": {
+                "color": "rgba(127, 0, 255, 0.8)",
+                "color2": "rgba(225, 0, 255, 0.7)",
+                "deg": "45",
+                "type": "linear"
+              },
+              "global_pattern_overlay": {
+                "src": ""
+              },
+              "global_overlay_pattern_color": "",
+              "blend_mode": "normal",
+              "global_user_border": 0,
+              "global_border_width": "",
+              "global_border_radius": 0,
+              "global_margin": {
+                "md": "0px 0px 30px 0px",
+                "sm": "   ",
+                "xs": "   "
+              },
+              "global_padding": {
+                "md": "   ",
+                "sm": "   ",
+                "xs": "   "
+              },
+              "global_boxshadow": "0 0 0 0 #ffffff",
+              "global_use_animation": 0,
+              "global_animationduration": "300",
+              "global_animationdelay": "0",
+              "global_custom_css": "",
+              "global_custom_position": 0,
+              "global_seclect_position": "relative",
+              "global_addon_position_left": {
+                "unit": "px"
+              },
+              "global_addon_position_top": {
+                "unit": "px"
+              },
+              "use_global_width": 0,
+              "hidden_md": 0,
+              "hidden_sm": 0,
+              "hidden_xs": 0,
+              "acl": "",
+              "while_scroll_view": [
+                {
+                  "enable_while_scroll_view": 0,
+                  "on_scroll_actions": [
+                    {
+                      "id": "b3fdc1c1e6bfde5942ea",
+                      "index": 0,
+                      "keyframe": 0,
+                      "name": "move",
+                      "property": {
+                        "x": "0",
+                        "y": "-100",
+                        "z": "0"
+                      },
+                      "range": {
+                        "max": 500,
+                        "min": -500,
+                        "stop": 1
+                      },
+                      "single": true,
+                      "title": "Move"
+                    },
+                    {
+                      "id": "936e0225e6dc8edfba7d",
+                      "index": 1,
+                      "keyframe": 100,
+                      "name": "move",
+                      "property": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0
+                      },
+                      "range": {
+                        "max": 500,
+                        "min": -500,
+                        "stop": 1
+                      },
+                      "single": true,
+                      "title": "Move"
+                    }
+                  ],
+                  "transition_origin_x": "center",
+                  "transition_origin_y": "center",
+                  "enable_tablet": 0,
+                  "enable_mobile": 0
+                }
+              ],
+              "mouse_movement": [
+                {
+                  "enable_tilt_effect": 0,
+                  "mouse_tilt_direction": "direct",
+                  "mouse_tilt_speed": "1",
+                  "mouse_tilt_max": "15",
+                  "enable_tablet": 0,
+                  "enable_mobile": 0
+                }
+              ]
+            }
+          },
+          {
+            "id": 1638345737995,
+            "name": "image",
+            "visibility": true,
+            "settings": {
+              "admin_label": "",
+              "title": "",
+              "heading_selector": "h3",
+              "title_fontsize": "",
+              "title_lineheight": "",
+              "title_letterspace": "0",
+              "title_padding": "",
+              "title_position": "top",
+              "image": "images/2024/09/08/3g.jpg",
+              "border_radius": 0,
+              "alt_text": "آلة غسل الزجاج العمودية",
+              "position": "sppb-text-center",
+              "open_lightbox": 0,
+              "overlay_color": "rgba(119, 219, 31, .5)",
+              "link": "",
+              "class": "",
+              "global_background_type": "none",
+              "global_background_gradient": {
+                "color": "#00c6fb",
+                "color2": "#005bea",
+                "deg": "45",
+                "type": "linear"
+              },
+              "global_background_image": {
+                "src": ""
+              },
+              "global_background_repeat": "no-repeat",
+              "global_background_size": "cover",
+              "global_background_attachment": "inherit",
+              "global_background_position": "50% 50%",
+              "global_use_overlay": 0,
+              "global_overlay_type": "overlay_none",
+              "global_gradient_overlay": {
+                "color": "rgba(127, 0, 255, 0.8)",
+                "color2": "rgba(225, 0, 255, 0.7)",
+                "deg": "45",
+                "type": "linear"
+              },
+              "global_pattern_overlay": {
+                "src": ""
+              },
+              "global_overlay_pattern_color": "",
+              "blend_mode": "normal",
+              "global_user_border": 0,
+              "global_border_width": "",
+              "global_border_radius": 0,
+              "global_margin": {
+                "md": "0px 0px 30px 0px",
+                "sm": "",
+                "xs": ""
+              },
+              "global_padding": "",
+              "global_boxshadow": "0 0 0 0 #ffffff",
+              "global_use_animation": 0,
+              "global_animationduration": "300",
+              "global_animationdelay": "0",
+              "global_custom_css": "",
+              "global_custom_position": 0,
+              "global_seclect_position": "relative",
+              "global_addon_position_left": {
+                "unit": "px"
+              },
+              "global_addon_position_top": {
+                "unit": "px"
+              },
+              "use_global_width": "0",
+              "hidden_md": "0",
+              "hidden_sm": "0",
+              "hidden_xs": "0",
+              "acl": "",
+              "while_scroll_view": [
+                {
+                  "enable_while_scroll_view": 0,
+                  "on_scroll_actions": [
+                    {
+                      "id": "b3fdc1c1e6bfde5942ea",
+                      "index": 0,
+                      "keyframe": 0,
+                      "name": "move",
+                      "property": {
+                        "x": "0",
+                        "y": "-100",
+                        "z": "0"
+                      },
+                      "range": {
+                        "max": 500,
+                        "min": -500,
+                        "stop": 1
+                      },
+                      "single": true,
+                      "title": "Move"
+                    },
+                    {
+                      "id": "936e0225e6dc8edfba7d",
+                      "index": 1,
+                      "keyframe": 100,
+                      "name": "move",
+                      "property": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0
+                      },
+                      "range": {
+                        "max": 500,
+                        "min": -500,
+                        "stop": 1
+                      },
+                      "single": true,
+                      "title": "Move"
+                    }
+                  ],
+                  "transition_origin_x": "center",
+                  "transition_origin_y": "center",
+                  "enable_tablet": 0,
+                  "enable_mobile": 0
+                }
+              ],
+              "mouse_movement": [
+                {
+                  "enable_tilt_effect": 0,
+                  "mouse_tilt_direction": "direct",
+                  "mouse_tilt_speed": "1",
+                  "mouse_tilt_max": "15",
+                  "enable_tablet": 0,
+                  "enable_mobile": 0
+                }
+              ]
+            }
+          },
+          {
+            "id": 1627973001305,
+            "name": "text_block",
+            "visibility": true,
+            "settings": {
+              "admin_label": "",
+              "title": "",
+              "heading_selector": "h1",
+              "title_fontsize": "",
+              "title_lineheight": "",
+              "title_letterspace": "0",
+              "text": "<p style=\"text-align: right;\">تُعدّ عملية غسل الزجاج باستخدام المعدات الصناعية المخصصة، ومنها آلات غسل الزجاج العمودية، من أهم المراحل الأساسية في إنتاج الزجاج المزدوج.<br />فحتى أصغر بقعة على السطح الداخلي للزجاج يتعذر الوصول إليها وتنظيفها بعد اكتمال تصنيع النافذة ذات الزجاج المزدوج، مما يؤثر في جودة المنتج النهائي.<br />وتُعد آلة غسل الزجاج العمودية، المتوفرة بارتفاعات 1800 و2000 و2200 مم، من أكثر الآلات كفاءةً لهذا الغرض.</p>",
+              "alignment": "",
+              "text_fontsize": "",
+              "text_lineheight": "",
+              "text_fontweight": "",
+              "dropcap": 0,
+              "class": "",
+              "global_background_type": "none",
+              "global_background_gradient": {
+                "color": "#00c6fb",
+                "color2": "#005bea",
+                "deg": "45",
+                "type": "linear"
+              },
+              "global_background_image": {
+                "src": ""
+              },
+              "global_background_repeat": "no-repeat",
+              "global_background_size": "cover",
+              "global_background_attachment": "inherit",
+              "global_background_position": "50% 50%",
+              "global_use_overlay": 0,
+              "global_overlay_type": "overlay_none",
+              "global_gradient_overlay": {
+                "color": "rgba(127, 0, 255, 0.8)",
+                "color2": "rgba(225, 0, 255, 0.7)",
+                "deg": "45",
+                "type": "linear"
+              },
+              "global_pattern_overlay": {
+                "src": ""
+              },
+              "global_overlay_pattern_color": "",
+              "blend_mode": "normal",
+              "global_user_border": 0,
+              "global_border_width": "",
+              "global_border_radius": 0,
+              "global_margin": {
+                "md": "0px 0px 30px 0px",
+                "sm": "",
+                "xs": ""
+              },
+              "global_padding": "",
+              "global_boxshadow": "0 0 0 0 #ffffff",
+              "global_use_animation": 0,
+              "global_animationduration": "300",
+              "global_animationdelay": "0",
+              "global_custom_css": "",
+              "global_custom_position": 0,
+              "global_seclect_position": "relative",
+              "global_addon_position_left": {
+                "unit": "px"
+              },
+              "global_addon_position_top": {
+                "unit": "px"
+              },
+              "use_global_width": "0",
+              "hidden_md": "0",
+              "hidden_sm": "0",
+              "hidden_xs": "0",
+              "acl": "",
+              "while_scroll_view": [
+                {
+                  "enable_while_scroll_view": 0,
+                  "on_scroll_actions": [
+                    {
+                      "id": "b3fdc1c1e6bfde5942ea",
+                      "index": 0,
+                      "keyframe": 0,
+                      "name": "move",
+                      "property": {
+                        "x": "0",
+                        "y": "-100",
+                        "z": "0"
+                      },
+                      "range": {
+                        "max": 500,
+                        "min": -500,
+                        "stop": 1
+                      },
+                      "single": true,
+                      "title": "Move"
+                    },
+                    {
+                      "id": "936e0225e6dc8edfba7d",
+                      "index": 1,
+                      "keyframe": 100,
+                      "name": "move",
+                      "property": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0
+                      },
+                      "range": {
+                        "max": 500,
+                        "min": -500,
+                        "stop": 1
+                      },
+                      "single": true,
+                      "title": "Move"
+                    }
+                  ],
+                  "transition_origin_x": "center",
+                  "transition_origin_y": "center",
+                  "enable_tablet": 0,
+                  "enable_mobile": 0
+                }
+              ],
+              "mouse_movement": [
+                {
+                  "enable_tilt_effect": 0,
+                  "mouse_tilt_direction": "direct",
+                  "mouse_tilt_speed": "1",
+                  "mouse_tilt_max": "15",
+                  "enable_tablet": 0,
+                  "enable_mobile": 0
+                }
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1591852645421,
+    "visibility": true,
+    "collapse": false,
+    "settings": {
+      "admin_label": "",
+      "title": "",
+      "heading_selector": "h3",
+      "title_fontsize": "",
+      "title_fontweight": "",
+      "title_position": "sppb-text-center",
+      "columns_align_center": 0,
+      "columns_content_alignment": "center",
+      "fullscreen": 0,
+      "no_gutter": 0,
+      "container_width": {
+        "unit": "px"
+      },
+      "container_max_width": {
+        "unit": "px"
+      },
+      "container_min_width": {
+        "unit": "px"
+      },
+      "row_width": {
+        "unit": "px"
+      },
+      "row_max_width": {
+        "unit": "px"
+      },
+      "row_min_width": {
+        "unit": "px"
+      },
+      "padding": {
+        "md": "0 0 0 0",
+        "sm": "   ",
+        "xs": "   "
+      },
+      "margin": {
+        "md": "0px 0px 0px 0px",
+        "sm": "   ",
+        "xs": "   "
+      },
+      "background_type": "color",
+      "background_gradient": {
+        "color": "#00c6fb",
+        "color2": "#005bea",
+        "deg": "45",
+        "type": "linear"
+      },
+      "background_image": {
+        "src": ""
+      },
+      "background_parallax": "0",
+      "background_repeat": "no-repeat",
+      "background_size": "cover",
+      "background_size_custom": {
+        "unit": "px"
+      },
+      "background_attachment": "fixed",
+      "background_position": "0 0",
+      "background_position_custom_x": {
+        "unit": "px"
+      },
+      "background_position_custom_y": {
+        "unit": "px"
+      },
+      "external_background_video": "0",
+      "background_video_mp4": {
+        "src": ""
+      },
+      "background_video_ogv": {
+        "src": ""
+      },
+      "video_loop": 1,
+      "overlay_type": "overlay_none",
+      "gradient_overlay": {
+        "color": "rgba(127, 0, 255, 0.8)",
+        "color2": "rgba(225, 0, 255, 0.7)",
+        "deg": "45",
+        "type": "linear"
+      },
+      "pattern_overlay": "",
+      "overlay_pattern_color": "",
+      "blend_mode": "normal",
+      "row_border": 0,
+      "row_border_style": "solid",
+      "row_border_radius": 0,
+      "row_boxshadow": "0 0 0 0 #ffffff",
+      "show_top_shape": 0,
+      "shape_name": "clouds-flat",
+      "shape_color": "#e5e5e5",
+      "shape_width": {
+        "md": 100,
+        "sm": 100,
+        "xs": 100
+      },
+      "shape_height": "",
+      "shape_flip": false,
+      "shape_invert": false,
+      "shape_to_front": false,
+      "show_bottom_shape": 0,
+      "bottom_shape_name": "clouds-opacity",
+      "bottom_shape_color": "#e5e5e5",
+      "bottom_shape_width": {
+        "md": 100,
+        "sm": 100,
+        "xs": 100
+      },
+      "bottom_shape_height": "",
+      "bottom_shape_flip": false,
+      "bottom_shape_invert": false,
+      "bottom_shape_to_front": false,
+      "hidden_xs": "",
+      "hidden_sm": "",
+      "hidden_md": "",
+      "animationduration": "300",
+      "animationdelay": "0",
+      "instFormId": 1591852645421,
+      "background_color": "#dfeeee"
+    },
+    "layout": "12",
+    "columns": [
+      {
+        "id": 1591852645420,
+        "class_name": "col-md-12",
+        "visibility": true,
+        "settings": {
+          "background_type": "none",
+          "background_gradient": {
+            "color": "#00c6fb",
+            "color2": "#005bea",
+            "deg": "45",
+            "type": "linear"
+          },
+          "background_image": {
+            "src": ""
+          },
+          "background_repeat": "no-repeat",
+          "background_size": "cover",
+          "background_attachment": "scroll",
+          "background_position": "0 0",
+          "overlay_type": "overlay_color",
+          "gradient_overlay": {
+            "color": "rgba(127, 0, 255, 0.8)",
+            "color2": "rgba(225, 0, 255, 0.7)",
+            "deg": "45",
+            "type": "linear"
+          },
+          "pattern_overlay": {
+            "src": ""
+          },
+          "overlay_pattern_color": "",
+          "blend_mode": "normal",
+          "items_align_center": 0,
+          "items_content_alignment": "center",
+          "use_border": 0,
+          "border_width": "",
+          "border_radius": 0,
+          "boxshadow": "0 0 0 0 #fff",
+          "sm_col": "",
+          "xs_col": "",
+          "tablet_order": "",
+          "mobile_order": "",
+          "hidden_xs": "",
+          "hidden_sm": "",
+          "hidden_md": "",
+          "animationduration": "300",
+          "animationdelay": "0"
+        },
+        "addons": [
+          {
+            "id": 1591853988203,
+            "name": "icon",
+            "visibility": true,
+            "settings": {
+              "admin_label": "",
+              "name": "fas fa-caret-down",
+              "link": "",
+              "size": {
+                "md": "80"
+              },
+              "width": {
+                "md": ""
+              },
+              "height": {
+                "md": "10"
+              },
+              "use_hover": 0,
+              "hover_effect": "zoom-in",
+              "alignment": "sppb-text-center",
+              "class": "",
+              "global_background_type": "none",
+              "global_background_gradient": {
+                "color": "#00c6fb",
+                "color2": "#005bea",
+                "deg": "45",
+                "type": "linear"
+              },
+              "global_background_image": {
+                "src": ""
+              },
+              "global_background_repeat": "no-repeat",
+              "global_background_size": "cover",
+              "global_background_attachment": "inherit",
+              "global_background_position": "50% 50%",
+              "global_use_overlay": 0,
+              "global_overlay_type": "overlay_none",
+              "global_gradient_overlay": {
+                "color": "rgba(127, 0, 255, 0.8)",
+                "color2": "rgba(225, 0, 255, 0.7)",
+                "deg": "45",
+                "type": "linear"
+              },
+              "global_pattern_overlay": {
+                "src": ""
+              },
+              "global_overlay_pattern_color": "",
+              "blend_mode": "normal",
+              "global_user_border": 0,
+              "global_border_width": "",
+              "global_border_radius": {
+                "md": "3",
+                "sm": "",
+                "xs": ""
+              },
+              "global_margin": {
+                "md": "0 0 0 0",
+                "sm": "0 0 0 0",
+                "xs": "0 0 0 0"
+              },
+              "global_padding": {
+                "md": "   ",
+                "sm": "   ",
+                "xs": "   "
+              },
+              "global_boxshadow": "0 0 0 0 #ffffff",
+              "global_use_animation": 0,
+              "global_animationduration": "300",
+              "global_animationdelay": "0",
+              "global_custom_css": "",
+              "global_custom_position": 0,
+              "global_seclect_position": "relative",
+              "global_addon_position_left": {
+                "unit": "px"
+              },
+              "global_addon_position_top": {
+                "unit": "px"
+              },
+              "use_global_width": 0,
+              "hidden_md": 0,
+              "hidden_sm": 0,
+              "hidden_xs": 0,
+              "acl": "",
+              "while_scroll_view": [
+                {
+                  "enable_while_scroll_view": 0,
+                  "on_scroll_actions": [
+                    {
+                      "id": "b3fdc1c1e6bfde5942ea",
+                      "index": 0,
+                      "keyframe": 0,
+                      "name": "move",
+                      "property": {
+                        "x": "0",
+                        "y": "-100",
+                        "z": "0"
+                      },
+                      "range": {
+                        "max": 500,
+                        "min": -500,
+                        "stop": 1
+                      },
+                      "single": true,
+                      "title": "Move"
+                    },
+                    {
+                      "id": "936e0225e6dc8edfba7d",
+                      "index": 1,
+                      "keyframe": 100,
+                      "name": "move",
+                      "property": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0
+                      },
+                      "range": {
+                        "max": 500,
+                        "min": -500,
+                        "stop": 1
+                      },
+                      "single": true,
+                      "title": "Move"
+                    }
+                  ],
+                  "transition_origin_x": "center",
+                  "transition_origin_y": "center",
+                  "enable_tablet": 0,
+                  "enable_mobile": 0
+                }
+              ],
+              "mouse_movement": [
+                {
+                  "enable_tilt_effect": 0,
+                  "mouse_tilt_direction": "direct",
+                  "mouse_tilt_speed": "1",
+                  "mouse_tilt_max": "15",
+                  "enable_tablet": 0,
+                  "enable_mobile": 0
+                }
+              ],
+              "instFormId": 1591853988203,
+              "margin": {
+                "md": "-0 0 0 0",
+                "sm": "   ",
+                "xs": "   "
+              },
+              "color": "#f0f7f7",
+              "background": "",
+              "border_width": {
+                "md": "0",
+                "sm": "",
+                "xs": ""
+              },
+              "border_radius": {
+                "md": "",
+                "sm": "",
+                "xs": ""
+              }
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1591877961801,
+    "visibility": true,
+    "collapse": false,
+    "settings": {
+      "admin_label": "",
+      "title": "",
+      "heading_selector": "h3",
+      "title_fontsize": "",
+      "title_fontweight": "",
+      "title_position": "sppb-text-center",
+      "columns_align_center": 1,
+      "columns_content_alignment": "center",
+      "fullscreen": 0,
+      "no_gutter": 0,
+      "container_width": {
+        "unit": "px"
+      },
+      "container_max_width": {
+        "unit": "px"
+      },
+      "container_min_width": {
+        "unit": "px"
+      },
+      "row_width": {
+        "unit": "px"
+      },
+      "row_max_width": {
+        "unit": "px"
+      },
+      "row_min_width": {
+        "unit": "px"
+      },
+      "padding": {
+        "md": "30px 0px 20px 0px",
+        "sm": "   ",
+        "xs": "   "
+      },
+      "margin": {
+        "md": "0px 0px 0px 0px",
+        "sm": "   ",
+        "xs": "   "
+      },
+      "background_type": "color",
+      "background_gradient": {
+        "color": "#00c6fb",
+        "color2": "#005bea",
+        "deg": "45",
+        "type": "linear"
+      },
+      "background_image": {
+        "src": ""
+      },
+      "background_parallax": "0",
+      "background_repeat": "no-repeat",
+      "background_size": "cover",
+      "background_size_custom": {
+        "unit": "px"
+      },
+      "background_attachment": "fixed",
+      "background_position": "0 0",
+      "background_position_custom_x": {
+        "unit": "px"
+      },
+      "background_position_custom_y": {
+        "unit": "px"
+      },
+      "external_background_video": "0",
+      "background_video_mp4": {
+        "src": ""
+      },
+      "background_video_ogv": {
+        "src": ""
+      },
+      "video_loop": 1,
+      "overlay_type": "overlay_none",
+      "gradient_overlay": {
+        "color": "rgba(127, 0, 255, 0.8)",
+        "color2": "rgba(225, 0, 255, 0.7)",
+        "deg": "45",
+        "type": "linear"
+      },
+      "pattern_overlay": "",
+      "overlay_pattern_color": "",
+      "blend_mode": "normal",
+      "row_border": 0,
+      "row_border_style": "",
+      "row_border_radius": {
+        "md": "0",
+        "sm": "",
+        "xs": ""
+      },
+      "row_boxshadow": {
+        "ho": "0",
+        "vo": "",
+        "blur": "0",
+        "spread": "",
+        "color": "",
+        "inset": false
+      },
+      "show_top_shape": 0,
+      "shape_name": "zigzag-sharp",
+      "shape_color": "#e5e5e5",
+      "shape_width": {
+        "md": "100",
+        "sm": 100,
+        "xs": 100
+      },
+      "shape_height": {
+        "md": "120",
+        "sm": "",
+        "xs": ""
+      },
+      "shape_flip": 0,
+      "shape_invert": 0,
+      "shape_to_front": 1,
+      "show_bottom_shape": 0,
+      "bottom_shape_name": "zigzag-sharp",
+      "bottom_shape_color": "#ffffff",
+      "bottom_shape_width": {
+        "md": "100",
+        "sm": 100,
+        "xs": 100
+      },
+      "bottom_shape_height": {
+        "md": "111",
+        "sm": "",
+        "xs": ""
+      },
+      "bottom_shape_flip": false,
+      "bottom_shape_invert": false,
+      "bottom_shape_to_front": 0,
+      "hidden_xs": 0,
+      "hidden_sm": 0,
+      "hidden_md": 0,
+      "animationduration": "300",
+      "animationdelay": "0",
+      "background_color": "#dfeeee",
+      "color": "#424A4F",
+      "instFormId": 1591849370916,
+      "row_border_width": {
+        "md": "   ",
+        "sm": "   ",
+        "xs": "   "
+      }
+    },
+    "layout": "12",
+    "columns": [
+      {
+        "id": 1591877961843,
+        "class_name": "col-md-12",
+        "visibility": true,
+        "settings": {
+          "background_type": "none",
+          "background_gradient": {
+            "color": "#00c6fb",
+            "color2": "#005bea",
+            "deg": "45",
+            "type": "linear"
+          },
+          "background_image": {
+            "src": ""
+          },
+          "background_repeat": "no-repeat",
+          "background_size": "cover",
+          "background_attachment": "scroll",
+          "background_position": "0 0",
+          "overlay_type": "overlay_color",
+          "gradient_overlay": {
+            "color": "rgba(127, 0, 255, 0.8)",
+            "color2": "rgba(225, 0, 255, 0.7)",
+            "deg": "45",
+            "type": "linear"
+          },
+          "pattern_overlay": {
+            "src": ""
+          },
+          "overlay_pattern_color": "",
+          "blend_mode": "normal",
+          "items_align_center": 0,
+          "items_content_alignment": "center",
+          "use_border": 0,
+          "border_width": "",
+          "border_radius": 0,
+          "boxshadow": "0 0 0 0 #fff",
+          "sm_col": "col-sm-6",
+          "xs_col": "",
+          "tablet_order": "",
+          "mobile_order": "",
+          "hidden_xs": 0,
+          "hidden_sm": 0,
+          "hidden_md": 0,
+          "animationduration": "4000",
+          "animationdelay": "0",
+          "padding": {
+            "md": "   ",
+            "sm": "   ",
+            "xs": "   "
+          },
+          "margin": {
+            "md": "   ",
+            "sm": "   ",
+            "xs": "   "
+          },
+          "background": "#f0f7f7",
+          "color": "",
+          "animation": "bounceInLeft"
+        },
+        "addons": [
+          {
+            "id": 1591877961844,
+            "name": "text_block",
+            "visibility": true,
+            "settings": {
+              "admin_label": "",
+              "title": "تاريخ إنتاج الزجاج المزدوج",
+              "heading_selector": "h2",
+              "title_fontsize": {
+                "md": "",
+                "sm": "",
+                "xs": ""
+              },
+              "title_lineheight": "",
+              "title_letterspace": "0",
+              "text": "<p style=\"text-align: right;\">يتكوّن الزجاج المزدوج أو متعدد الطبقات من لوحين أو أكثر من الزجاج، تُرتّب بشكل متوازٍ وعلى مسافات متساوية، ويفصل بينها فاصل (Spacer).<br />يحتوي الفراغ بين الألواح على الهواء أو غاز خامل، مثل الأرجون أو الكريبتون، بضغط يقارب الضغط الجوي الخارجي. ويوفر هذا الفراغ خصائص العزل في الزجاج المزدوج.<br />تُستخدم فواصل الألمنيوم غالباً في وحدات الزجاج المزدوج، ويُملأ الجزء الداخلي منها بهلام السيليكا أو بمادة مجففة أخرى.<br />تمتص هذه المادة الرطوبة من الهواء المحصور بين الألواح، بينما تضمن مواد السد المناسبة إحكام الإغلاق بالكامل.<br />تتوفر الفواصل عادةً بسماكات 6 و8 و10 و12 و14 و16 مم.<br />وبحسب الحاجة، يمكن استخدام الزجاج الشفاف أو الملوّن أو العاكس أو الرقائقي أو المقسّى في تصنيع النوافذ المزدوجة.<br />في عام 1865، حصل صاحب متجر لبيع الزجاج في مدينة نيويورك على براءة اختراع وحقوق استخدام الزجاج المزدوج في الولايات المتحدة.<br />ومن خلال الدراسة والتجارب، أوضح أن الزجاج المزدوج يساعد على الحد من فقدان حرارة المباني في الطقس البارد ويحسّن حماية المناخ الداخلي.</p>",
+              "alignment": "sppb-text-center",
+              "text_fontsize": {
+                "md": "13",
+                "sm": "",
+                "xs": ""
+              },
+              "text_lineheight": "",
+              "text_fontweight": "",
+              "dropcap": 0,
+              "class": "",
+              "global_background_type": "none",
+              "global_background_gradient": {
+                "color": "#00c6fb",
+                "color2": "#005bea",
+                "deg": "45",
+                "type": "linear"
+              },
+              "global_background_image": {
+                "src": ""
+              },
+              "global_background_repeat": "no-repeat",
+              "global_background_size": "cover",
+              "global_background_attachment": "inherit",
+              "global_background_position": "50% 50%",
+              "global_use_overlay": 0,
+              "global_overlay_type": "overlay_none",
+              "global_gradient_overlay": {
+                "color": "rgba(127, 0, 255, 0.8)",
+                "color2": "rgba(225, 0, 255, 0.7)",
+                "deg": "45",
+                "type": "linear"
+              },
+              "global_pattern_overlay": {
+                "src": ""
+              },
+              "global_overlay_pattern_color": "",
+              "blend_mode": "normal",
+              "global_user_border": 0,
+              "global_border_width": "",
+              "global_border_radius": {
+                "md": "5",
+                "sm": "",
+                "xs": "",
+                "unit": ""
+              },
+              "global_margin": {
+                "md": "0px 0px 30px 0px",
+                "sm": "0px 0px 20px 0px",
+                "xs": "0px 0px 10px 0px"
+              },
+              "global_padding": {
+                "md": "50 50 50 50",
+                "sm": "   ",
+                "xs": "   "
+              },
+              "global_boxshadow": {
+                "ho": "0",
+                "vo": "0",
+                "blur": "0",
+                "spread": "0",
+                "color": "#ffffff",
+                "inset": false
+              },
+              "global_use_animation": 0,
+              "global_animationduration": "300",
+              "global_animationdelay": "0",
+              "global_custom_css": "",
+              "global_custom_position": 0,
+              "global_seclect_position": "relative",
+              "global_addon_position_left": {
+                "unit": "px"
+              },
+              "global_addon_position_top": {
+                "unit": "px"
+              },
+              "use_global_width": "0",
+              "hidden_md": "0",
+              "hidden_sm": "0",
+              "hidden_xs": "0",
+              "acl": "",
+              "while_scroll_view": [
+                {
+                  "enable_while_scroll_view": 0,
+                  "on_scroll_actions": [
+                    {
+                      "id": "b3fdc1c1e6bfde5942ea",
+                      "index": 0,
+                      "keyframe": 0,
+                      "name": "move",
+                      "property": {
+                        "x": "0",
+                        "y": "-100",
+                        "z": "0"
+                      },
+                      "range": {
+                        "max": 500,
+                        "min": -500,
+                        "stop": 1
+                      },
+                      "single": true,
+                      "title": "Move"
+                    },
+                    {
+                      "id": "936e0225e6dc8edfba7d",
+                      "index": 1,
+                      "keyframe": 100,
+                      "name": "move",
+                      "property": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0
+                      },
+                      "range": {
+                        "max": 500,
+                        "min": -500,
+                        "stop": 1
+                      },
+                      "single": true,
+                      "title": "Move"
+                    }
+                  ],
+                  "transition_origin_x": "center",
+                  "transition_origin_y": "center",
+                  "enable_tablet": 0,
+                  "enable_mobile": 0
+                }
+              ],
+              "mouse_movement": [
+                {
+                  "enable_tilt_effect": 0,
+                  "mouse_tilt_direction": "direct",
+                  "mouse_tilt_speed": "1",
+                  "mouse_tilt_max": "15",
+                  "enable_tablet": 0,
+                  "enable_mobile": 0
+                }
+              ],
+              "instFormId": 1591849370919,
+              "font_family": "Arial",
+              "title_margin_top": {
+                "md": "",
+                "sm": "",
+                "xs": ""
+              }
+            }
+          },
+          {
+            "id": 1638345738036,
+            "name": "image",
+            "visibility": true,
+            "settings": {
+              "admin_label": "",
+              "title": "",
+              "heading_selector": "h3",
+              "title_fontsize": "",
+              "title_lineheight": "",
+              "title_letterspace": "0",
+              "title_padding": "",
+              "title_position": "top",
+              "image": "images/2024/09/08/2g.jpg",
+              "border_radius": 0,
+              "alt_text": "آلة غسل الزجاج العمودية للبيع",
+              "position": "sppb-text-center",
+              "open_lightbox": 0,
+              "overlay_color": "rgba(119, 219, 31, .5)",
+              "link": "",
+              "class": "",
+              "global_background_type": "none",
+              "global_background_gradient": {
+                "color": "#00c6fb",
+                "color2": "#005bea",
+                "deg": "45",
+                "type": "linear"
+              },
+              "global_background_image": {
+                "src": ""
+              },
+              "global_background_repeat": "no-repeat",
+              "global_background_size": "cover",
+              "global_background_attachment": "inherit",
+              "global_background_position": "50% 50%",
+              "global_use_overlay": 0,
+              "global_overlay_type": "overlay_none",
+              "global_gradient_overlay": {
+                "color": "rgba(127, 0, 255, 0.8)",
+                "color2": "rgba(225, 0, 255, 0.7)",
+                "deg": "45",
+                "type": "linear"
+              },
+              "global_pattern_overlay": {
+                "src": ""
+              },
+              "global_overlay_pattern_color": "",
+              "blend_mode": "normal",
+              "global_user_border": 0,
+              "global_border_width": "",
+              "global_border_radius": 0,
+              "global_margin": {
+                "md": "0px 0px 30px 0px",
+                "sm": "",
+                "xs": ""
+              },
+              "global_padding": "",
+              "global_boxshadow": "0 0 0 0 #ffffff",
+              "global_use_animation": 0,
+              "global_animationduration": "300",
+              "global_animationdelay": "0",
+              "global_custom_css": "",
+              "global_custom_position": 0,
+              "global_seclect_position": "relative",
+              "global_addon_position_left": {
+                "unit": "px"
+              },
+              "global_addon_position_top": {
+                "unit": "px"
+              },
+              "use_global_width": "0",
+              "hidden_md": "0",
+              "hidden_sm": "0",
+              "hidden_xs": "0",
+              "acl": "",
+              "while_scroll_view": [
+                {
+                  "enable_while_scroll_view": 0,
+                  "on_scroll_actions": [
+                    {
+                      "id": "b3fdc1c1e6bfde5942ea",
+                      "index": 0,
+                      "keyframe": 0,
+                      "name": "move",
+                      "property": {
+                        "x": "0",
+                        "y": "-100",
+                        "z": "0"
+                      },
+                      "range": {
+                        "max": 500,
+                        "min": -500,
+                        "stop": 1
+                      },
+                      "single": true,
+                      "title": "Move"
+                    },
+                    {
+                      "id": "936e0225e6dc8edfba7d",
+                      "index": 1,
+                      "keyframe": 100,
+                      "name": "move",
+                      "property": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0
+                      },
+                      "range": {
+                        "max": 500,
+                        "min": -500,
+                        "stop": 1
+                      },
+                      "single": true,
+                      "title": "Move"
+                    }
+                  ],
+                  "transition_origin_x": "center",
+                  "transition_origin_y": "center",
+                  "enable_tablet": 0,
+                  "enable_mobile": 0
+                }
+              ],
+              "mouse_movement": [
+                {
+                  "enable_tilt_effect": 0,
+                  "mouse_tilt_direction": "direct",
+                  "mouse_tilt_speed": "1",
+                  "mouse_tilt_max": "15",
+                  "enable_tablet": 0,
+                  "enable_mobile": 0
+                }
+              ],
+              "image_width": {
+                "md": "",
+                "sm": "",
+                "xs": ""
+              },
+              "image_height": {
+                "md": "",
+                "sm": "",
+                "xs": ""
+              }
+            }
+          },
+          {
+            "id": 1638345738007,
+            "name": "text_block",
+            "visibility": true,
+            "settings": {
+              "admin_label": "",
+              "title": "التعرّف على آلة غسل الزجاج المزدوج",
+              "heading_selector": "h2",
+              "title_fontsize": "",
+              "title_lineheight": "",
+              "title_letterspace": "0",
+              "text": "<p>هل تساءلتم يوماً عن كيفية تنظيف الزجاج خلال إنتاج الوحدات ذات الزجاج المزدوج، بحيث يصل المنتج النهائي إلى المستهلك نظيفاً تماماً وخالياً من البقع؟<br />تُعد آلة غسل الزجاج الصناعية من أهم المعدات في هذه العملية، وهي متوفرة بنوعين: أفقي وعمودي.<br />ومن أبرز مزاياها سرعة التشغيل، وسهولة الاستخدام، وتحسين جودة المنتج النهائي، والسعر المناسب، فضلاً عن سهولة استبدال المكونات وقطع الغيار.</p>",
+              "alignment": "",
+              "text_fontsize": {
+                "md": "13",
+                "sm": "",
+                "xs": ""
+              },
+              "text_lineheight": "",
+              "text_fontweight": "",
+              "dropcap": 0,
+              "class": "",
+              "global_background_type": "none",
+              "global_background_gradient": {
+                "color": "#00c6fb",
+                "color2": "#005bea",
+                "deg": "45",
+                "type": "linear"
+              },
+              "global_background_image": {
+                "src": ""
+              },
+              "global_background_repeat": "no-repeat",
+              "global_background_size": "cover",
+              "global_background_attachment": "inherit",
+              "global_background_position": "50% 50%",
+              "global_use_overlay": 0,
+              "global_overlay_type": "overlay_none",
+              "global_gradient_overlay": {
+                "color": "rgba(127, 0, 255, 0.8)",
+                "color2": "rgba(225, 0, 255, 0.7)",
+                "deg": "45",
+                "type": "linear"
+              },
+              "global_pattern_overlay": {
+                "src": ""
+              },
+              "global_overlay_pattern_color": "",
+              "blend_mode": "normal",
+              "global_user_border": 0,
+              "global_border_width": "",
+              "global_border_radius": 0,
+              "global_margin": {
+                "md": "0px 0 30px 0px",
+                "sm": "0px 0px 20px 0px",
+                "xs": "0px 0px 10px 0px"
+              },
+              "global_padding": {
+                "md": "0 0 0 0",
+                "sm": "   ",
+                "xs": "   "
+              },
+              "global_boxshadow": {
+                "ho": "1",
+                "vo": "1",
+                "blur": "0",
+                "spread": "0",
+                "color": "#ffffff",
+                "inset": false
+              },
+              "global_use_animation": 0,
+              "global_animationduration": "300",
+              "global_animationdelay": "0",
+              "global_custom_css": "",
+              "global_custom_position": 0,
+              "global_seclect_position": "relative",
+              "global_addon_position_left": {
+                "unit": "px"
+              },
+              "global_addon_position_top": {
+                "unit": "px"
+              },
+              "use_global_width": "0",
+              "hidden_md": "0",
+              "hidden_sm": "0",
+              "hidden_xs": "0",
+              "acl": "",
+              "while_scroll_view": [
+                {
+                  "enable_while_scroll_view": 0,
+                  "on_scroll_actions": [
+                    {
+                      "id": "b3fdc1c1e6bfde5942ea",
+                      "index": 0,
+                      "keyframe": 0,
+                      "name": "move",
+                      "property": {
+                        "x": "0",
+                        "y": "-100",
+                        "z": "0"
+                      },
+                      "range": {
+                        "max": 500,
+                        "min": -500,
+                        "stop": 1
+                      },
+                      "single": true,
+                      "title": "Move"
+                    },
+                    {
+                      "id": "936e0225e6dc8edfba7d",
+                      "index": 1,
+                      "keyframe": 100,
+                      "name": "move",
+                      "property": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0
+                      },
+                      "range": {
+                        "max": 500,
+                        "min": -500,
+                        "stop": 1
+                      },
+                      "single": true,
+                      "title": "Move"
+                    }
+                  ],
+                  "transition_origin_x": "center",
+                  "transition_origin_y": "center",
+                  "enable_tablet": 0,
+                  "enable_mobile": 0
+                }
+              ],
+              "mouse_movement": [
+                {
+                  "enable_tilt_effect": 0,
+                  "mouse_tilt_direction": "direct",
+                  "mouse_tilt_speed": "1",
+                  "mouse_tilt_max": "15",
+                  "enable_tablet": 0,
+                  "enable_mobile": 0
+                }
+              ],
+              "instFormId": 1591849370919
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1591877961804,
+    "visibility": true,
+    "collapse": false,
+    "settings": {
+      "admin_label": "",
+      "title": "",
+      "heading_selector": "h3",
+      "title_fontsize": "",
+      "title_fontweight": "",
+      "title_position": "sppb-text-center",
+      "columns_align_center": 0,
+      "columns_content_alignment": "center",
+      "fullscreen": 0,
+      "no_gutter": 0,
+      "container_width": {
+        "unit": "px"
+      },
+      "container_max_width": {
+        "unit": "px"
+      },
+      "container_min_width": {
+        "unit": "px"
+      },
+      "row_width": {
+        "unit": "px"
+      },
+      "row_max_width": {
+        "unit": "px"
+      },
+      "row_min_width": {
+        "unit": "px"
+      },
+      "padding": {
+        "md": "0 0 0 0",
+        "sm": "   ",
+        "xs": "   "
+      },
+      "margin": {
+        "md": "0px 0px 0px 0px",
+        "sm": "   ",
+        "xs": "   "
+      },
+      "background_type": "color",
+      "background_gradient": {
+        "color": "#00c6fb",
+        "color2": "#005bea",
+        "deg": "45",
+        "type": "linear"
+      },
+      "background_image": {
+        "src": ""
+      },
+      "background_parallax": "0",
+      "background_repeat": "no-repeat",
+      "background_size": "cover",
+      "background_size_custom": {
+        "unit": "px"
+      },
+      "background_attachment": "fixed",
+      "background_position": "0 0",
+      "background_position_custom_x": {
+        "unit": "px"
+      },
+      "background_position_custom_y": {
+        "unit": "px"
+      },
+      "external_background_video": "0",
+      "background_video_mp4": {
+        "src": ""
+      },
+      "background_video_ogv": {
+        "src": ""
+      },
+      "video_loop": 1,
+      "overlay_type": "overlay_none",
+      "gradient_overlay": {
+        "color": "rgba(127, 0, 255, 0.8)",
+        "color2": "rgba(225, 0, 255, 0.7)",
+        "deg": "45",
+        "type": "linear"
+      },
+      "pattern_overlay": "",
+      "overlay_pattern_color": "",
+      "blend_mode": "normal",
+      "row_border": 0,
+      "row_border_style": "solid",
+      "row_border_radius": 0,
+      "row_boxshadow": "0 0 0 0 #ffffff",
+      "show_top_shape": 0,
+      "shape_name": "clouds-flat",
+      "shape_color": "#e5e5e5",
+      "shape_width": {
+        "md": 100,
+        "sm": 100,
+        "xs": 100
+      },
+      "shape_height": "",
+      "shape_flip": false,
+      "shape_invert": false,
+      "shape_to_front": false,
+      "show_bottom_shape": 0,
+      "bottom_shape_name": "clouds-opacity",
+      "bottom_shape_color": "#e5e5e5",
+      "bottom_shape_width": {
+        "md": 100,
+        "sm": 100,
+        "xs": 100
+      },
+      "bottom_shape_height": "",
+      "bottom_shape_flip": false,
+      "bottom_shape_invert": false,
+      "bottom_shape_to_front": false,
+      "hidden_xs": "",
+      "hidden_sm": "",
+      "hidden_md": "",
+      "animationduration": "300",
+      "animationdelay": "0",
+      "instFormId": 1591852645421,
+      "background_color": "#f0f7f7"
+    },
+    "layout": "12",
+    "columns": [
+      {
+        "id": 1591877961846,
+        "class_name": "col-md-12",
+        "visibility": true,
+        "settings": {
+          "background_type": "none",
+          "background_gradient": {
+            "color": "#00c6fb",
+            "color2": "#005bea",
+            "deg": "45",
+            "type": "linear"
+          },
+          "background_image": {
+            "src": ""
+          },
+          "background_repeat": "no-repeat",
+          "background_size": "cover",
+          "background_attachment": "scroll",
+          "background_position": "0 0",
+          "overlay_type": "overlay_color",
+          "gradient_overlay": {
+            "color": "rgba(127, 0, 255, 0.8)",
+            "color2": "rgba(225, 0, 255, 0.7)",
+            "deg": "45",
+            "type": "linear"
+          },
+          "pattern_overlay": {
+            "src": ""
+          },
+          "overlay_pattern_color": "",
+          "blend_mode": "normal",
+          "items_align_center": 0,
+          "items_content_alignment": "center",
+          "use_border": 0,
+          "border_width": "",
+          "border_radius": 0,
+          "boxshadow": "0 0 0 0 #fff",
+          "sm_col": "",
+          "xs_col": "",
+          "tablet_order": "",
+          "mobile_order": "",
+          "hidden_xs": "",
+          "hidden_sm": "",
+          "hidden_md": "",
+          "animationduration": "300",
+          "animationdelay": "0"
+        },
+        "addons": [
+          {
+            "id": 1591877961847,
+            "name": "icon",
+            "visibility": true,
+            "settings": {
+              "admin_label": "",
+              "name": "fas fa-caret-down",
+              "link": "",
+              "size": {
+                "md": "80"
+              },
+              "width": {
+                "md": ""
+              },
+              "height": {
+                "md": "10"
+              },
+              "use_hover": 0,
+              "hover_effect": "zoom-in",
+              "alignment": "sppb-text-center",
+              "class": "",
+              "global_background_type": "none",
+              "global_background_gradient": {
+                "color": "#00c6fb",
+                "color2": "#005bea",
+                "deg": "45",
+                "type": "linear"
+              },
+              "global_background_image": {
+                "src": ""
+              },
+              "global_background_repeat": "no-repeat",
+              "global_background_size": "cover",
+              "global_background_attachment": "inherit",
+              "global_background_position": "50% 50%",
+              "global_use_overlay": 0,
+              "global_overlay_type": "overlay_none",
+              "global_gradient_overlay": {
+                "color": "rgba(127, 0, 255, 0.8)",
+                "color2": "rgba(225, 0, 255, 0.7)",
+                "deg": "45",
+                "type": "linear"
+              },
+              "global_pattern_overlay": {
+                "src": ""
+              },
+              "global_overlay_pattern_color": "",
+              "blend_mode": "normal",
+              "global_user_border": 0,
+              "global_border_width": "",
+              "global_border_radius": {
+                "md": "3",
+                "sm": "",
+                "xs": ""
+              },
+              "global_margin": {
+                "md": "0 0 0 0",
+                "sm": "0 0 0 0",
+                "xs": "0 0 0 0"
+              },
+              "global_padding": {
+                "md": "   ",
+                "sm": "   ",
+                "xs": "   "
+              },
+              "global_boxshadow": "0 0 0 0 #ffffff",
+              "global_use_animation": 0,
+              "global_animationduration": "300",
+              "global_animationdelay": "0",
+              "global_custom_css": "",
+              "global_custom_position": 0,
+              "global_seclect_position": "relative",
+              "global_addon_position_left": {
+                "unit": "px"
+              },
+              "global_addon_position_top": {
+                "unit": "px"
+              },
+              "use_global_width": 0,
+              "hidden_md": 0,
+              "hidden_sm": 0,
+              "hidden_xs": 0,
+              "acl": "",
+              "while_scroll_view": [
+                {
+                  "enable_while_scroll_view": 0,
+                  "on_scroll_actions": [
+                    {
+                      "id": "b3fdc1c1e6bfde5942ea",
+                      "index": 0,
+                      "keyframe": 0,
+                      "name": "move",
+                      "property": {
+                        "x": "0",
+                        "y": "-100",
+                        "z": "0"
+                      },
+                      "range": {
+                        "max": 500,
+                        "min": -500,
+                        "stop": 1
+                      },
+                      "single": true,
+                      "title": "Move"
+                    },
+                    {
+                      "id": "936e0225e6dc8edfba7d",
+                      "index": 1,
+                      "keyframe": 100,
+                      "name": "move",
+                      "property": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0
+                      },
+                      "range": {
+                        "max": 500,
+                        "min": -500,
+                        "stop": 1
+                      },
+                      "single": true,
+                      "title": "Move"
+                    }
+                  ],
+                  "transition_origin_x": "center",
+                  "transition_origin_y": "center",
+                  "enable_tablet": 0,
+                  "enable_mobile": 0
+                }
+              ],
+              "mouse_movement": [
+                {
+                  "enable_tilt_effect": 0,
+                  "mouse_tilt_direction": "direct",
+                  "mouse_tilt_speed": "1",
+                  "mouse_tilt_max": "15",
+                  "enable_tablet": 0,
+                  "enable_mobile": 0
+                }
+              ],
+              "instFormId": 1591853988203,
+              "margin": {
+                "md": "-0 0 0 0",
+                "sm": "   ",
+                "xs": "   "
+              },
+              "color": "#dfeeee",
+              "background": "",
+              "border_width": {
+                "md": "0",
+                "sm": "",
+                "xs": ""
+              },
+              "border_radius": {
+                "md": "",
+                "sm": "",
+                "xs": ""
+              }
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1591877961812,
+    "visibility": true,
+    "collapse": false,
+    "settings": {
+      "admin_label": "",
+      "title": "",
+      "heading_selector": "h3",
+      "title_fontsize": "",
+      "title_fontweight": "",
+      "title_position": "sppb-text-center",
+      "columns_align_center": 0,
+      "columns_content_alignment": "center",
+      "fullscreen": 0,
+      "no_gutter": 0,
+      "container_width": {
+        "unit": "px"
+      },
+      "container_max_width": {
+        "unit": "px"
+      },
+      "container_min_width": {
+        "unit": "px"
+      },
+      "row_width": {
+        "unit": "px"
+      },
+      "row_max_width": {
+        "unit": "px"
+      },
+      "row_min_width": {
+        "unit": "px"
+      },
+      "padding": {
+        "md": "10px 0px 20px 0px",
+        "sm": "   ",
+        "xs": "   "
+      },
+      "margin": {
+        "md": "0px 0px 0px 0px",
+        "sm": "   ",
+        "xs": "   "
+      },
+      "background_type": "color",
+      "background_gradient": {
+        "color": "#00c6fb",
+        "color2": "#005bea",
+        "deg": "45",
+        "type": "linear"
+      },
+      "background_image": {
+        "src": ""
+      },
+      "background_parallax": "0",
+      "background_repeat": "no-repeat",
+      "background_size": "cover",
+      "background_size_custom": {
+        "unit": "px"
+      },
+      "background_attachment": "fixed",
+      "background_position": "0 0",
+      "background_position_custom_x": {
+        "unit": "px"
+      },
+      "background_position_custom_y": {
+        "unit": "px"
+      },
+      "external_background_video": "0",
+      "background_video_mp4": {
+        "src": ""
+      },
+      "background_video_ogv": {
+        "src": ""
+      },
+      "video_loop": 1,
+      "overlay_type": "overlay_none",
+      "gradient_overlay": {
+        "color": "rgba(127, 0, 255, 0.8)",
+        "color2": "rgba(225, 0, 255, 0.7)",
+        "deg": "45",
+        "type": "linear"
+      },
+      "pattern_overlay": "",
+      "overlay_pattern_color": "",
+      "blend_mode": "normal",
+      "row_border": 0,
+      "row_border_style": "",
+      "row_border_radius": {
+        "md": "0",
+        "sm": "",
+        "xs": ""
+      },
+      "row_boxshadow": {
+        "ho": "0",
+        "vo": "",
+        "blur": "0",
+        "spread": "",
+        "color": "",
+        "inset": false
+      },
+      "show_top_shape": 0,
+      "shape_name": "zigzag-sharp",
+      "shape_color": "#e5e5e5",
+      "shape_width": {
+        "md": "100",
+        "sm": 100,
+        "xs": 100
+      },
+      "shape_height": {
+        "md": "120",
+        "sm": "",
+        "xs": ""
+      },
+      "shape_flip": 0,
+      "shape_invert": 0,
+      "shape_to_front": 1,
+      "show_bottom_shape": 0,
+      "bottom_shape_name": "zigzag-sharp",
+      "bottom_shape_color": "#ffffff",
+      "bottom_shape_width": {
+        "md": "100",
+        "sm": 100,
+        "xs": 100
+      },
+      "bottom_shape_height": {
+        "md": "111",
+        "sm": "",
+        "xs": ""
+      },
+      "bottom_shape_flip": false,
+      "bottom_shape_invert": false,
+      "bottom_shape_to_front": 0,
+      "hidden_xs": 0,
+      "hidden_sm": 0,
+      "hidden_md": 0,
+      "animationduration": "300",
+      "animationdelay": "0",
+      "background_color": "#f0f7f7",
+      "color": "#424A4F",
+      "instFormId": 1591849370916,
+      "row_border_width": {
+        "md": "   ",
+        "sm": "   ",
+        "xs": "   "
+      }
+    },
+    "layout": "12",
+    "columns": [
+      {
+        "id": 1591877961852,
+        "class_name": "col-md-12",
+        "visibility": true,
+        "settings": {
+          "background_type": "none",
+          "background_gradient": {
+            "color": "#00c6fb",
+            "color2": "#005bea",
+            "deg": "45",
+            "type": "linear"
+          },
+          "background_image": {
+            "src": ""
+          },
+          "background_repeat": "no-repeat",
+          "background_size": "cover",
+          "background_attachment": "scroll",
+          "background_position": "0 0",
+          "overlay_type": "overlay_color",
+          "gradient_overlay": {
+            "color": "rgba(127, 0, 255, 0.8)",
+            "color2": "rgba(225, 0, 255, 0.7)",
+            "deg": "45",
+            "type": "linear"
+          },
+          "pattern_overlay": {
+            "src": ""
+          },
+          "overlay_pattern_color": "",
+          "blend_mode": "normal",
+          "items_align_center": 0,
+          "items_content_alignment": "center",
+          "use_border": 0,
+          "border_width": "",
+          "border_radius": 0,
+          "boxshadow": "0 0 0 0 #fff",
+          "sm_col": "",
+          "xs_col": "",
+          "tablet_order": "",
+          "mobile_order": "",
+          "hidden_xs": "",
+          "hidden_sm": "",
+          "hidden_md": "",
+          "animationduration": "4000",
+          "animationdelay": "0",
+          "padding": {
+            "md": "   ",
+            "sm": "   ",
+            "xs": "   "
+          },
+          "margin": {
+            "md": "   ",
+            "sm": "   ",
+            "xs": "   "
+          },
+          "background": "#f0f7f7",
+          "color": "",
+          "animation": "bounceInUp"
+        },
+        "addons": [
+          {
+            "id": 1591877961853,
+            "name": "text_block",
+            "visibility": true,
+            "settings": {
+              "admin_label": "",
+              "title": "ما هي آلة غسل الزجاج العمودية؟",
+              "heading_selector": "h2",
+              "title_fontsize": "",
+              "title_lineheight": "",
+              "title_letterspace": "0",
+              "text": "تتكوّن آلة غسل الزجاج المزدوج العمودية، بخلاف الآلة الأفقية التي تُصنع كوحدة واحدة، من ثلاثة أقسام رئيسية:<br />1. الناقل الأيسر<br />2. حجرة الغسل الرئيسية في المنتصف<br />3. الناقل الأيمن أو الناقل النهائي<br />يمثّل الناقل الأيسر المرحلة الأولى من عملية الغسل. توضع ألواح الزجاج غير المغسولة عليه، وتقوم بكرات الدفع الموجودة أسفل الزجاج بنقله إلى حجرة الغسل الرئيسية.<br />ونظراً إلى تركيب الآلة العمودية بميل خفيف، تدعم عدة بكرات توجيه بلاستيكية صغيرة الزجاج من أحد الجوانب وتساعد على الحفاظ على توازنه.<br />داخل حجرة الغسل، تتحمل بكرات التوجيه المصنوعة من البولي يوريثان وزن الزجاج، بينما تقوم محاور مزودة ببكرات دفع من البولي يوريثان أو السيليكون بتحريكه إلى الأمام.<br />تتميز هذه البكرات بنعومتها وقدرتها على التكيف مع مختلف مقاسات الزجاج. وتقوم أربع فرش بغسل الزجاج وتجهيزه للتجفيف.<br />يمكن تصنيع حجرة الغسل الرئيسية من الفولاذ المقاوم للصدأ أو الفولاذ المجلفن. ويكون الفولاذ المقاوم للصدأ أعلى تكلفة، لكنه يوفر جودة أفضل.<br />يوجد المجفف في نهاية الحجرة، ويتكوّن من فوهتي هواء معدنيتين متصلتين بمروحة عبر أنابيب بلاستيكية مرنة. وينبغي أن تزيد قدرة مروحة التجفيف على 5.5 حصان.<br />في آلات الغسل العمودية بارتفاعات 1800 و2000 و2200 مم، تساعد الجاذبية وسهولة الوصول إلى جانبي الزجاج على تحسين عمليتي الغسل والتجفيف.<br />أما المرحلة الأخيرة فتتم عبر الناقل الأيمن، حيث ينتقل إليه الزجاج الخارج من حجرة الغسل.<br />يحتوي الناقل الأيمن على بكرات دفع سفلية، ويُثبّت الزجاج من أحد الجوانب بميل خفيف، تماماً كما في الناقل الأيسر.<br />كما يحتوي هذا القسم على عدة مصابيح فلورية خلف الزجاج، مما يتيح للمشغّل مراقبة عملية الغسل النهائية بفاعلية.",
+              "alignment": "",
+              "text_fontsize": {
+                "md": "13",
+                "sm": "",
+                "xs": ""
+              },
+              "text_lineheight": "",
+              "text_fontweight": "",
+              "dropcap": 0,
+              "class": "",
+              "global_background_type": "image",
+              "global_background_gradient": {
+                "color": "#00c6fb",
+                "color2": "#005bea",
+                "deg": "45",
+                "type": "linear"
+              },
+              "global_background_image": {
+                "src": ""
+              },
+              "global_background_repeat": "no-repeat",
+              "global_background_size": "cover",
+              "global_background_attachment": "inherit",
+              "global_background_position": "50% 50%",
+              "global_use_overlay": 0,
+              "global_overlay_type": "overlay_none",
+              "global_gradient_overlay": {
+                "color": "rgba(127, 0, 255, 0.8)",
+                "color2": "rgba(225, 0, 255, 0.7)",
+                "deg": "45",
+                "type": "linear"
+              },
+              "global_pattern_overlay": {
+                "src": ""
+              },
+              "global_overlay_pattern_color": "",
+              "blend_mode": "normal",
+              "global_user_border": 0,
+              "global_border_width": "",
+              "global_border_radius": 0,
+              "global_margin": {
+                "md": "0px 0px 30px 0px",
+                "sm": "0px 0px 20px 0px",
+                "xs": "0px 0px 10px 0px"
+              },
+              "global_padding": {
+                "md": "   ",
+                "sm": "   ",
+                "xs": "   "
+              },
+              "global_boxshadow": "0 0 0 0 #ffffff",
+              "global_use_animation": 0,
+              "global_animationduration": "300",
+              "global_animationdelay": "0",
+              "global_custom_css": "",
+              "global_custom_position": 0,
+              "global_seclect_position": "relative",
+              "global_addon_position_left": {
+                "unit": "px"
+              },
+              "global_addon_position_top": {
+                "unit": "px"
+              },
+              "use_global_width": 0,
+              "hidden_md": 0,
+              "hidden_sm": 0,
+              "hidden_xs": 0,
+              "acl": "",
+              "while_scroll_view": [
+                {
+                  "enable_while_scroll_view": 0,
+                  "on_scroll_actions": [
+                    {
+                      "id": "b3fdc1c1e6bfde5942ea",
+                      "index": 0,
+                      "keyframe": 0,
+                      "name": "move",
+                      "property": {
+                        "x": "0",
+                        "y": "-100",
+                        "z": "0"
+                      },
+                      "range": {
+                        "max": 500,
+                        "min": -500,
+                        "stop": 1
+                      },
+                      "single": true,
+                      "title": "Move"
+                    },
+                    {
+                      "id": "936e0225e6dc8edfba7d",
+                      "index": 1,
+                      "keyframe": 100,
+                      "name": "move",
+                      "property": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0
+                      },
+                      "range": {
+                        "max": 500,
+                        "min": -500,
+                        "stop": 1
+                      },
+                      "single": true,
+                      "title": "Move"
+                    }
+                  ],
+                  "transition_origin_x": "center",
+                  "transition_origin_y": "center",
+                  "enable_tablet": 0,
+                  "enable_mobile": 0
+                }
+              ],
+              "mouse_movement": [
+                {
+                  "enable_tilt_effect": 0,
+                  "mouse_tilt_direction": "direct",
+                  "mouse_tilt_speed": "1",
+                  "mouse_tilt_max": "15",
+                  "enable_tablet": 0,
+                  "enable_mobile": 0
+                }
+              ],
+              "instFormId": 1591849370919,
+              "global_animation": ""
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1591892788839,
+    "visibility": true,
+    "collapse": false,
+    "settings": {
+      "admin_label": "",
+      "title": "",
+      "heading_selector": "h3",
+      "title_fontsize": "",
+      "title_fontweight": "",
+      "title_position": "sppb-text-center",
+      "columns_align_center": 0,
+      "columns_content_alignment": "center",
+      "fullscreen": 0,
+      "no_gutter": 0,
+      "container_width": {
+        "unit": "px"
+      },
+      "container_max_width": {
+        "unit": "px"
+      },
+      "container_min_width": {
+        "unit": "px"
+      },
+      "row_width": {
+        "unit": "px"
+      },
+      "row_max_width": {
+        "unit": "px"
+      },
+      "row_min_width": {
+        "unit": "px"
+      },
+      "padding": {
+        "md": "0 0 0 0",
+        "sm": "   ",
+        "xs": "   "
+      },
+      "margin": {
+        "md": "0px 0px 0px 0px",
+        "sm": "   ",
+        "xs": "   "
+      },
+      "background_type": "color",
+      "background_gradient": {
+        "color": "#00c6fb",
+        "color2": "#005bea",
+        "deg": "45",
+        "type": "linear"
+      },
+      "background_image": {
+        "src": ""
+      },
+      "background_parallax": "0",
+      "background_repeat": "no-repeat",
+      "background_size": "cover",
+      "background_size_custom": {
+        "unit": "px"
+      },
+      "background_attachment": "fixed",
+      "background_position": "0 0",
+      "background_position_custom_x": {
+        "unit": "px"
+      },
+      "background_position_custom_y": {
+        "unit": "px"
+      },
+      "external_background_video": "0",
+      "background_video_mp4": {
+        "src": ""
+      },
+      "background_video_ogv": {
+        "src": ""
+      },
+      "video_loop": 1,
+      "overlay_type": "overlay_none",
+      "gradient_overlay": {
+        "color": "rgba(127, 0, 255, 0.8)",
+        "color2": "rgba(225, 0, 255, 0.7)",
+        "deg": "45",
+        "type": "linear"
+      },
+      "pattern_overlay": "",
+      "overlay_pattern_color": "",
+      "blend_mode": "normal",
+      "row_border": 0,
+      "row_border_style": "solid",
+      "row_border_radius": 0,
+      "row_boxshadow": "0 0 0 0 #ffffff",
+      "show_top_shape": 0,
+      "shape_name": "clouds-flat",
+      "shape_color": "#e5e5e5",
+      "shape_width": {
+        "md": 100,
+        "sm": 100,
+        "xs": 100
+      },
+      "shape_height": "",
+      "shape_flip": false,
+      "shape_invert": false,
+      "shape_to_front": false,
+      "show_bottom_shape": 0,
+      "bottom_shape_name": "clouds-opacity",
+      "bottom_shape_color": "#e5e5e5",
+      "bottom_shape_width": {
+        "md": 100,
+        "sm": 100,
+        "xs": 100
+      },
+      "bottom_shape_height": "",
+      "bottom_shape_flip": false,
+      "bottom_shape_invert": false,
+      "bottom_shape_to_front": false,
+      "hidden_xs": "",
+      "hidden_sm": "",
+      "hidden_md": "",
+      "animationduration": "300",
+      "animationdelay": "0",
+      "instFormId": 1591852645421,
+      "background_color": "#dfeeee"
+    },
+    "layout": "12",
+    "columns": [
+      {
+        "id": 1591892788853,
+        "class_name": "col-md-12",
+        "visibility": true,
+        "settings": {
+          "background_type": "none",
+          "background_gradient": {
+            "color": "#00c6fb",
+            "color2": "#005bea",
+            "deg": "45",
+            "type": "linear"
+          },
+          "background_image": {
+            "src": ""
+          },
+          "background_repeat": "no-repeat",
+          "background_size": "cover",
+          "background_attachment": "scroll",
+          "background_position": "0 0",
+          "overlay_type": "overlay_color",
+          "gradient_overlay": {
+            "color": "rgba(127, 0, 255, 0.8)",
+            "color2": "rgba(225, 0, 255, 0.7)",
+            "deg": "45",
+            "type": "linear"
+          },
+          "pattern_overlay": {
+            "src": ""
+          },
+          "overlay_pattern_color": "",
+          "blend_mode": "normal",
+          "items_align_center": 0,
+          "items_content_alignment": "center",
+          "use_border": 0,
+          "border_width": "",
+          "border_radius": 0,
+          "boxshadow": "0 0 0 0 #fff",
+          "sm_col": "",
+          "xs_col": "",
+          "tablet_order": "",
+          "mobile_order": "",
+          "hidden_xs": "",
+          "hidden_sm": "",
+          "hidden_md": "",
+          "animationduration": "300",
+          "animationdelay": "0"
+        },
+        "addons": [
+          {
+            "id": 1591892788854,
+            "name": "icon",
+            "visibility": true,
+            "settings": {
+              "admin_label": "",
+              "name": "fas fa-angle-right",
+              "link": "",
+              "size": {
+                "md": "80"
+              },
+              "width": {
+                "md": ""
+              },
+              "height": {
+                "md": "10"
+              },
+              "use_hover": 0,
+              "hover_effect": "zoom-in",
+              "alignment": "sppb-text-center",
+              "class": "",
+              "global_background_type": "none",
+              "global_background_gradient": {
+                "color": "#00c6fb",
+                "color2": "#005bea",
+                "deg": "45",
+                "type": "linear"
+              },
+              "global_background_image": {
+                "src": ""
+              },
+              "global_background_repeat": "no-repeat",
+              "global_background_size": "cover",
+              "global_background_attachment": "inherit",
+              "global_background_position": "50% 50%",
+              "global_use_overlay": 0,
+              "global_overlay_type": "overlay_none",
+              "global_gradient_overlay": {
+                "color": "rgba(127, 0, 255, 0.8)",
+                "color2": "rgba(225, 0, 255, 0.7)",
+                "deg": "45",
+                "type": "linear"
+              },
+              "global_pattern_overlay": {
+                "src": ""
+              },
+              "global_overlay_pattern_color": "",
+              "blend_mode": "normal",
+              "global_user_border": 0,
+              "global_border_width": "",
+              "global_border_radius": {
+                "md": "3",
+                "sm": "",
+                "xs": ""
+              },
+              "global_margin": {
+                "md": "0 0 0 0",
+                "sm": "0 0 0 0",
+                "xs": "0 0 0 0"
+              },
+              "global_padding": {
+                "md": "   ",
+                "sm": "   ",
+                "xs": "   "
+              },
+              "global_boxshadow": "0 0 0 0 #ffffff",
+              "global_use_animation": 0,
+              "global_animationduration": "300",
+              "global_animationdelay": "0",
+              "global_custom_css": "",
+              "global_custom_position": 0,
+              "global_seclect_position": "relative",
+              "global_addon_position_left": {
+                "unit": "px"
+              },
+              "global_addon_position_top": {
+                "unit": "px"
+              },
+              "use_global_width": 0,
+              "hidden_md": 0,
+              "hidden_sm": 0,
+              "hidden_xs": 0,
+              "acl": "",
+              "while_scroll_view": [
+                {
+                  "enable_while_scroll_view": 0,
+                  "on_scroll_actions": [
+                    {
+                      "id": "b3fdc1c1e6bfde5942ea",
+                      "index": 0,
+                      "keyframe": 0,
+                      "name": "move",
+                      "property": {
+                        "x": "0",
+                        "y": "-100",
+                        "z": "0"
+                      },
+                      "range": {
+                        "max": 500,
+                        "min": -500,
+                        "stop": 1
+                      },
+                      "single": true,
+                      "title": "Move"
+                    },
+                    {
+                      "id": "936e0225e6dc8edfba7d",
+                      "index": 1,
+                      "keyframe": 100,
+                      "name": "move",
+                      "property": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0
+                      },
+                      "range": {
+                        "max": 500,
+                        "min": -500,
+                        "stop": 1
+                      },
+                      "single": true,
+                      "title": "Move"
+                    }
+                  ],
+                  "transition_origin_x": "center",
+                  "transition_origin_y": "center",
+                  "enable_tablet": 0,
+                  "enable_mobile": 0
+                }
+              ],
+              "mouse_movement": [
+                {
+                  "enable_tilt_effect": 0,
+                  "mouse_tilt_direction": "direct",
+                  "mouse_tilt_speed": "1",
+                  "mouse_tilt_max": "15",
+                  "enable_tablet": 0,
+                  "enable_mobile": 0
+                }
+              ],
+              "instFormId": 1591853988203,
+              "margin": {
+                "md": "-0 0 0 0",
+                "sm": "   ",
+                "xs": "   "
+              },
+              "color": "#f0f7f7",
+              "background": "",
+              "border_width": {
+                "md": "0",
+                "sm": "",
+                "xs": ""
+              },
+              "border_radius": {
+                "md": "",
+                "sm": "",
+                "xs": ""
+              }
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1633713458057,
+    "visibility": true,
+    "collapse": false,
+    "settings": {
+      "admin_label": "",
+      "title": "",
+      "heading_selector": "h3",
+      "title_fontsize": "",
+      "title_fontweight": "",
+      "title_position": "sppb-text-center",
+      "columns_align_center": 1,
+      "columns_content_alignment": "center",
+      "fullscreen": 0,
+      "no_gutter": 0,
+      "container_width": {
+        "unit": "px"
+      },
+      "container_max_width": {
+        "unit": "px"
+      },
+      "container_min_width": {
+        "unit": "px"
+      },
+      "row_width": {
+        "unit": "px"
+      },
+      "row_max_width": {
+        "unit": "px"
+      },
+      "row_min_width": {
+        "unit": "px"
+      },
+      "padding": {
+        "md": "30px 0px 20px 0px",
+        "sm": "   ",
+        "xs": "   "
+      },
+      "margin": {
+        "md": "0px 0px 0px 0px",
+        "sm": "   ",
+        "xs": "   "
+      },
+      "background_type": "color",
+      "background_gradient": {
+        "color": "#00c6fb",
+        "color2": "#005bea",
+        "deg": "45",
+        "type": "linear"
+      },
+      "background_image": {
+        "src": ""
+      },
+      "background_parallax": "0",
+      "background_repeat": "no-repeat",
+      "background_size": "cover",
+      "background_size_custom": {
+        "unit": "px"
+      },
+      "background_attachment": "fixed",
+      "background_position": "0 0",
+      "background_position_custom_x": {
+        "unit": "px"
+      },
+      "background_position_custom_y": {
+        "unit": "px"
+      },
+      "external_background_video": "0",
+      "background_video_mp4": {
+        "src": ""
+      },
+      "background_video_ogv": {
+        "src": ""
+      },
+      "video_loop": 1,
+      "overlay_type": "overlay_none",
+      "gradient_overlay": {
+        "color": "rgba(127, 0, 255, 0.8)",
+        "color2": "rgba(225, 0, 255, 0.7)",
+        "deg": "45",
+        "type": "linear"
+      },
+      "pattern_overlay": "",
+      "overlay_pattern_color": "",
+      "blend_mode": "normal",
+      "row_border": 0,
+      "row_border_style": "",
+      "row_border_radius": {
+        "md": "0",
+        "sm": "",
+        "xs": ""
+      },
+      "row_boxshadow": {
+        "ho": "0",
+        "vo": "",
+        "blur": "0",
+        "spread": "",
+        "color": "",
+        "inset": false
+      },
+      "show_top_shape": 0,
+      "shape_name": "zigzag-sharp",
+      "shape_color": "#e5e5e5",
+      "shape_width": {
+        "md": "100",
+        "sm": 100,
+        "xs": 100
+      },
+      "shape_height": {
+        "md": "120",
+        "sm": "",
+        "xs": ""
+      },
+      "shape_flip": 0,
+      "shape_invert": 0,
+      "shape_to_front": 1,
+      "show_bottom_shape": 0,
+      "bottom_shape_name": "zigzag-sharp",
+      "bottom_shape_color": "#ffffff",
+      "bottom_shape_width": {
+        "md": "100",
+        "sm": 100,
+        "xs": 100
+      },
+      "bottom_shape_height": {
+        "md": "111",
+        "sm": "",
+        "xs": ""
+      },
+      "bottom_shape_flip": false,
+      "bottom_shape_invert": false,
+      "bottom_shape_to_front": 0,
+      "hidden_xs": 0,
+      "hidden_sm": 0,
+      "hidden_md": 0,
+      "animationduration": "300",
+      "animationdelay": "0",
+      "background_color": "#dfeeee",
+      "color": "#424A4F",
+      "instFormId": 1591849370916,
+      "row_border_width": {
+        "md": "   ",
+        "sm": "   ",
+        "xs": "   "
+      }
+    },
+    "layout": "12",
+    "columns": [
+      {
+        "id": 1633713458058,
+        "class_name": "col-md-12",
+        "visibility": true,
+        "settings": {
+          "background_type": "none",
+          "background_gradient": {
+            "color": "#00c6fb",
+            "color2": "#005bea",
+            "deg": "45",
+            "type": "linear"
+          },
+          "background_image": {
+            "src": ""
+          },
+          "background_repeat": "no-repeat",
+          "background_size": "cover",
+          "background_attachment": "scroll",
+          "background_position": "0 0",
+          "overlay_type": "overlay_color",
+          "gradient_overlay": {
+            "color": "rgba(127, 0, 255, 0.8)",
+            "color2": "rgba(225, 0, 255, 0.7)",
+            "deg": "45",
+            "type": "linear"
+          },
+          "pattern_overlay": {
+            "src": ""
+          },
+          "overlay_pattern_color": "",
+          "blend_mode": "normal",
+          "items_align_center": 0,
+          "items_content_alignment": "center",
+          "use_border": 0,
+          "border_width": "",
+          "border_radius": 0,
+          "boxshadow": "0 0 0 0 #fff",
+          "sm_col": "",
+          "xs_col": "",
+          "tablet_order": "",
+          "mobile_order": "",
+          "hidden_xs": 0,
+          "hidden_sm": 0,
+          "hidden_md": 0,
+          "animationduration": "3000",
+          "animationdelay": "0",
+          "padding": {
+            "md": "   ",
+            "sm": "   ",
+            "xs": "   "
+          },
+          "margin": {
+            "md": "   ",
+            "sm": "   ",
+            "xs": "   "
+          },
+          "background": "#f0f7f7",
+          "color": "",
+          "animation": "bounceInLeft"
+        },
+        "addons": [
+          {
+            "id": 1633713458061,
+            "name": "image",
+            "visibility": false,
+            "settings": {
+              "admin_label": "",
+              "title": "",
+              "heading_selector": "h3",
+              "title_fontsize": "",
+              "title_lineheight": "",
+              "title_letterspace": "0",
+              "title_padding": "",
+              "title_position": "top",
+              "image": "images/2024/02/15/3.jpg",
+              "border_radius": 0,
+              "alt_text": "سعر آلة غسل الزجاج العمودية",
+              "position": "sppb-text-center",
+              "open_lightbox": 0,
+              "overlay_color": "rgba(119, 219, 31, .5)",
+              "link": "",
+              "class": "",
+              "global_background_type": "none",
+              "global_background_gradient": {
+                "color": "#00c6fb",
+                "color2": "#005bea",
+                "deg": "45",
+                "type": "linear"
+              },
+              "global_background_image": {
+                "src": ""
+              },
+              "global_background_repeat": "no-repeat",
+              "global_background_size": "cover",
+              "global_background_attachment": "inherit",
+              "global_background_position": "50% 50%",
+              "global_use_overlay": 0,
+              "global_overlay_type": "overlay_none",
+              "global_gradient_overlay": {
+                "color": "rgba(127, 0, 255, 0.8)",
+                "color2": "rgba(225, 0, 255, 0.7)",
+                "deg": "45",
+                "type": "linear"
+              },
+              "global_pattern_overlay": {
+                "src": ""
+              },
+              "global_overlay_pattern_color": "",
+              "blend_mode": "normal",
+              "global_user_border": 0,
+              "global_border_width": "",
+              "global_border_radius": 0,
+              "global_margin": {
+                "md": "0px 0px 30px 0px",
+                "sm": "0px 0px 20px 0px",
+                "xs": "0px 0px 10px 0px"
+              },
+              "global_padding": "",
+              "global_boxshadow": "0 0 0 0 #ffffff",
+              "global_use_animation": 0,
+              "global_animationduration": "300",
+              "global_animationdelay": "0",
+              "global_custom_css": "",
+              "global_custom_position": 0,
+              "global_seclect_position": "relative",
+              "global_addon_position_left": {
+                "unit": "px"
+              },
+              "global_addon_position_top": {
+                "unit": "px"
+              },
+              "use_global_width": "0",
+              "hidden_md": "0",
+              "hidden_sm": "0",
+              "hidden_xs": "0",
+              "acl": "",
+              "while_scroll_view": [
+                {
+                  "enable_while_scroll_view": 0,
+                  "on_scroll_actions": [
+                    {
+                      "id": "b3fdc1c1e6bfde5942ea",
+                      "index": 0,
+                      "keyframe": 0,
+                      "name": "move",
+                      "property": {
+                        "x": "0",
+                        "y": "-100",
+                        "z": "0"
+                      },
+                      "range": {
+                        "max": 500,
+                        "min": -500,
+                        "stop": 1
+                      },
+                      "single": true,
+                      "title": "Move"
+                    },
+                    {
+                      "id": "936e0225e6dc8edfba7d",
+                      "index": 1,
+                      "keyframe": 100,
+                      "name": "move",
+                      "property": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0
+                      },
+                      "range": {
+                        "max": 500,
+                        "min": -500,
+                        "stop": 1
+                      },
+                      "single": true,
+                      "title": "Move"
+                    }
+                  ],
+                  "transition_origin_x": "center",
+                  "transition_origin_y": "center",
+                  "enable_tablet": 0,
+                  "enable_mobile": 0
+                }
+              ],
+              "mouse_movement": [
+                {
+                  "enable_tilt_effect": 0,
+                  "mouse_tilt_direction": "direct",
+                  "mouse_tilt_speed": "1",
+                  "mouse_tilt_max": "15",
+                  "enable_tablet": 0,
+                  "enable_mobile": 0
+                }
+              ]
+            }
+          },
+          {
+            "id": 1633713458059,
+            "name": "text_block",
+            "visibility": true,
+            "settings": {
+              "admin_label": "",
+              "title": "طلب آلة غسل الزجاج العمودية بارتفاعات 1800 و2000 و2200 مم",
+              "heading_selector": "h2",
+              "title_fontsize": "",
+              "title_lineheight": "",
+              "title_letterspace": "0",
+              "text": "كما ذكرنا، تُعد آلة غسل الزجاج الصناعية من أكثر المعدات استخداماً في إنتاج الزجاج المزدوج، وهي متوفرة بنموذجين: عمودي وأفقي.<br />تتوفر هذه الآلات بتشكيلات متنوعة، ويجري تطويرها باستمرار لتُطرح في الأسواق بمزايا أكثر تقدماً.<br />تشمل المواصفات الفنية لأحدث آلات غسل الزجاج العمودية ما يلي:<br />1. متوفرة بتكوين 4 فرش أو 6 فرش<br />2. خزان المياه والصينية مصنوعان بالكامل من الفولاذ المقاوم للصدأ<br />3. فرش مقاومة للخدش<br />4. بكرات سيليكون<br />5. إمكانية غسل الزجاج العاكس وزجاج Low-E وأنواع الزجاج الحساسة<br />6. مكونات كهربائية كورية<br />7. طول الآلة 7 أمتار في طراز 6 فرش و5.5 أمتار في طراز 4 فرش<br />8. مكونات من الدرجة الأولى ومتوافقة مع المعايير المعمول بها<br />9. طلاء مسحوقي كهروستاتيكي مع معالجة حرارية في الفرن<br />10. ضمان ذهبي من ثلاث نجوم لمدة 18 شهراً<br />11. خدمات ما بعد البيع وتوفير المكونات وقطع الغيار لمدة 360 شهراً",
+              "alignment": "",
+              "text_fontsize": {
+                "md": "13",
+                "sm": "",
+                "xs": ""
+              },
+              "text_lineheight": "",
+              "text_fontweight": "",
+              "dropcap": 0,
+              "class": "",
+              "global_background_type": "none",
+              "global_background_gradient": {
+                "color": "#00c6fb",
+                "color2": "#005bea",
+                "deg": "45",
+                "type": "linear"
+              },
+              "global_background_image": {
+                "src": ""
+              },
+              "global_background_repeat": "no-repeat",
+              "global_background_size": "cover",
+              "global_background_attachment": "inherit",
+              "global_background_position": "50% 50%",
+              "global_use_overlay": 0,
+              "global_overlay_type": "overlay_none",
+              "global_gradient_overlay": {
+                "color": "rgba(127, 0, 255, 0.8)",
+                "color2": "rgba(225, 0, 255, 0.7)",
+                "deg": "45",
+                "type": "linear"
+              },
+              "global_pattern_overlay": {
+                "src": ""
+              },
+              "global_overlay_pattern_color": "",
+              "blend_mode": "normal",
+              "global_user_border": 0,
+              "global_border_width": "",
+              "global_border_radius": 0,
+              "global_margin": {
+                "md": "0px 0px 30px 0px",
+                "sm": "0px 0px 20px 0px",
+                "xs": "0px 0px 10px 0px"
+              },
+              "global_padding": {
+                "md": "   ",
+                "sm": "   ",
+                "xs": "   "
+              },
+              "global_boxshadow": "0 0 0 0 #ffffff",
+              "global_use_animation": 0,
+              "global_animationduration": "300",
+              "global_animationdelay": "0",
+              "global_custom_css": "",
+              "global_custom_position": 0,
+              "global_seclect_position": "relative",
+              "global_addon_position_left": {
+                "unit": "px"
+              },
+              "global_addon_position_top": {
+                "unit": "px"
+              },
+              "use_global_width": "0",
+              "hidden_md": "0",
+              "hidden_sm": "0",
+              "hidden_xs": "0",
+              "acl": "",
+              "while_scroll_view": [
+                {
+                  "enable_while_scroll_view": 0,
+                  "on_scroll_actions": [
+                    {
+                      "id": "b3fdc1c1e6bfde5942ea",
+                      "index": 0,
+                      "keyframe": 0,
+                      "name": "move",
+                      "property": {
+                        "x": "0",
+                        "y": "-100",
+                        "z": "0"
+                      },
+                      "range": {
+                        "max": 500,
+                        "min": -500,
+                        "stop": 1
+                      },
+                      "single": true,
+                      "title": "Move"
+                    },
+                    {
+                      "id": "936e0225e6dc8edfba7d",
+                      "index": 1,
+                      "keyframe": 100,
+                      "name": "move",
+                      "property": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0
+                      },
+                      "range": {
+                        "max": 500,
+                        "min": -500,
+                        "stop": 1
+                      },
+                      "single": true,
+                      "title": "Move"
+                    }
+                  ],
+                  "transition_origin_x": "center",
+                  "transition_origin_y": "center",
+                  "enable_tablet": 0,
+                  "enable_mobile": 0
+                }
+              ],
+              "mouse_movement": [
+                {
+                  "enable_tilt_effect": 0,
+                  "mouse_tilt_direction": "direct",
+                  "mouse_tilt_speed": "1",
+                  "mouse_tilt_max": "15",
+                  "enable_tablet": 0,
+                  "enable_mobile": 0
+                }
+              ],
+              "instFormId": 1591849370919
+            }
+          }
+        ]
+      }
+    ]
+  }
+]
