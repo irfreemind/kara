@@ -1,0 +1,2965 @@
+[
+  {
+    "id": 1591849370916,
+    "visibility": true,
+    "collapse": false,
+    "settings": {
+      "admin_label": "",
+      "title": "",
+      "heading_selector": "h3",
+      "title_fontsize": "",
+      "title_fontweight": "",
+      "title_position": "sppb-text-center",
+      "columns_align_center": 0,
+      "columns_content_alignment": "center",
+      "fullscreen": 0,
+      "no_gutter": 0,
+      "container_width": {
+        "unit": "px"
+      },
+      "container_max_width": {
+        "unit": "px"
+      },
+      "container_min_width": {
+        "unit": "px"
+      },
+      "row_width": {
+        "unit": "px"
+      },
+      "row_max_width": {
+        "unit": "px"
+      },
+      "row_min_width": {
+        "unit": "px"
+      },
+      "padding": {
+        "md": "50px 0px 20px 0px",
+        "sm": "   ",
+        "xs": "   "
+      },
+      "margin": {
+        "md": "0px 0px 0px 0px",
+        "sm": "   ",
+        "xs": "   "
+      },
+      "background_type": "color",
+      "background_gradient": {
+        "color": "#00c6fb",
+        "color2": "#005bea",
+        "deg": "45",
+        "type": "linear"
+      },
+      "background_image": {
+        "src": ""
+      },
+      "background_parallax": "0",
+      "background_repeat": "no-repeat",
+      "background_size": "cover",
+      "background_size_custom": {
+        "unit": "px"
+      },
+      "background_attachment": "fixed",
+      "background_position": "0 0",
+      "background_position_custom_x": {
+        "unit": "px"
+      },
+      "background_position_custom_y": {
+        "unit": "px"
+      },
+      "external_background_video": "0",
+      "background_video_mp4": {
+        "src": ""
+      },
+      "background_video_ogv": {
+        "src": ""
+      },
+      "video_loop": 1,
+      "overlay_type": "overlay_none",
+      "gradient_overlay": {
+        "color": "rgba(127, 0, 255, 0.8)",
+        "color2": "rgba(225, 0, 255, 0.7)",
+        "deg": "45",
+        "type": "linear"
+      },
+      "pattern_overlay": "",
+      "overlay_pattern_color": "",
+      "blend_mode": "normal",
+      "row_border": 0,
+      "row_border_style": "",
+      "row_border_radius": {
+        "md": "0",
+        "sm": "",
+        "xs": ""
+      },
+      "row_boxshadow": {
+        "ho": "0",
+        "vo": "",
+        "blur": "0",
+        "spread": "",
+        "color": "",
+        "inset": false
+      },
+      "show_top_shape": 0,
+      "shape_name": "zigzag-sharp",
+      "shape_color": "#e5e5e5",
+      "shape_width": {
+        "md": "100",
+        "sm": 100,
+        "xs": 100
+      },
+      "shape_height": {
+        "md": "120",
+        "sm": "",
+        "xs": ""
+      },
+      "shape_flip": 0,
+      "shape_invert": 0,
+      "shape_to_front": 1,
+      "show_bottom_shape": 0,
+      "bottom_shape_name": "zigzag-sharp",
+      "bottom_shape_color": "#ffffff",
+      "bottom_shape_width": {
+        "md": "100",
+        "sm": 100,
+        "xs": 100
+      },
+      "bottom_shape_height": {
+        "md": "111",
+        "sm": "",
+        "xs": ""
+      },
+      "bottom_shape_flip": false,
+      "bottom_shape_invert": false,
+      "bottom_shape_to_front": 0,
+      "hidden_xs": 0,
+      "hidden_sm": 0,
+      "hidden_md": 0,
+      "animationduration": "300",
+      "animationdelay": "0",
+      "background_color": "#f0f7f7",
+      "color": "#424A4F",
+      "instFormId": 1591849370916,
+      "row_border_width": {
+        "md": "   ",
+        "sm": "   ",
+        "xs": "   "
+      }
+    },
+    "layout": "12",
+    "columns": [
+      {
+        "id": 1591849370915,
+        "class_name": "col-md-12",
+        "visibility": true,
+        "settings": {
+          "background_type": "none",
+          "background_gradient": {
+            "color": "#00c6fb",
+            "color2": "#005bea",
+            "deg": "45",
+            "type": "linear"
+          },
+          "background_image": {
+            "src": ""
+          },
+          "background_repeat": "no-repeat",
+          "background_size": "cover",
+          "background_attachment": "scroll",
+          "background_position": "0 0",
+          "overlay_type": "overlay_color",
+          "gradient_overlay": {
+            "color": "rgba(127, 0, 255, 0.8)",
+            "color2": "rgba(225, 0, 255, 0.7)",
+            "deg": "45",
+            "type": "linear"
+          },
+          "pattern_overlay": {
+            "src": ""
+          },
+          "overlay_pattern_color": "",
+          "blend_mode": "normal",
+          "items_align_center": 0,
+          "items_content_alignment": "center",
+          "use_border": 0,
+          "border_width": "",
+          "border_radius": 0,
+          "boxshadow": "0 0 0 0 #fff",
+          "sm_col": "",
+          "xs_col": "",
+          "tablet_order": "",
+          "mobile_order": "",
+          "hidden_xs": "",
+          "hidden_sm": "",
+          "hidden_md": "",
+          "animationduration": "300",
+          "animationdelay": "0",
+          "padding": {
+            "md": "   ",
+            "sm": "   ",
+            "xs": "   "
+          },
+          "margin": {
+            "md": "   ",
+            "sm": "   ",
+            "xs": "   "
+          },
+          "background": "#f0f7f7",
+          "color": ""
+        },
+        "addons": [
+          {
+            "id": 1638345738045,
+            "name": "heading",
+            "visibility": true,
+            "settings": {
+              "admin_label": "",
+              "title": "Polysulfide Sealant Applicator",
+              "heading_selector": "h1",
+              "use_link": 0,
+              "title_link": "",
+              "link_new_tab": "",
+              "title_fontsize": "",
+              "title_lineheight": "",
+              "title_letterspace": "0",
+              "custom_letterspacing": "",
+              "title_text_transform": "none",
+              "title_margin": {
+                "md": "0px 0px 30px 0px",
+                "sm": "   ",
+                "xs": "   "
+              },
+              "title_padding": {
+                "md": "0px 0px 0px 0px",
+                "sm": "   ",
+                "xs": "   "
+              },
+              "title_icon_position": "before",
+              "alignment": "sppb-text-center",
+              "title_text_shadow": "",
+              "class": "",
+              "global_background_type": "none",
+              "global_background_gradient": {
+                "color": "#00c6fb",
+                "color2": "#005bea",
+                "deg": "45",
+                "type": "linear"
+              },
+              "global_background_image": {
+                "src": ""
+              },
+              "global_background_repeat": "no-repeat",
+              "global_background_size": "cover",
+              "global_background_attachment": "inherit",
+              "global_background_position": "50% 50%",
+              "global_use_overlay": 0,
+              "global_overlay_type": "overlay_none",
+              "global_gradient_overlay": {
+                "color": "rgba(127, 0, 255, 0.8)",
+                "color2": "rgba(225, 0, 255, 0.7)",
+                "deg": "45",
+                "type": "linear"
+              },
+              "global_pattern_overlay": {
+                "src": ""
+              },
+              "global_overlay_pattern_color": "",
+              "blend_mode": "normal",
+              "global_user_border": 0,
+              "global_border_width": "",
+              "global_border_radius": 0,
+              "global_margin": {
+                "md": "0px 0px 30px 0px",
+                "sm": "   ",
+                "xs": "   "
+              },
+              "global_padding": {
+                "md": "   ",
+                "sm": "   ",
+                "xs": "   "
+              },
+              "global_boxshadow": "0 0 0 0 #ffffff",
+              "global_use_animation": 0,
+              "global_animationduration": "300",
+              "global_animationdelay": "0",
+              "global_custom_css": "",
+              "global_custom_position": 0,
+              "global_seclect_position": "relative",
+              "global_addon_position_left": {
+                "unit": "px"
+              },
+              "global_addon_position_top": {
+                "unit": "px"
+              },
+              "use_global_width": 0,
+              "hidden_md": 0,
+              "hidden_sm": 0,
+              "hidden_xs": 0,
+              "acl": "",
+              "while_scroll_view": [
+                {
+                  "enable_while_scroll_view": 0,
+                  "on_scroll_actions": [
+                    {
+                      "id": "b3fdc1c1e6bfde5942ea",
+                      "index": 0,
+                      "keyframe": 0,
+                      "name": "move",
+                      "property": {
+                        "x": "0",
+                        "y": "-100",
+                        "z": "0"
+                      },
+                      "range": {
+                        "max": 500,
+                        "min": -500,
+                        "stop": 1
+                      },
+                      "single": true,
+                      "title": "Move"
+                    },
+                    {
+                      "id": "936e0225e6dc8edfba7d",
+                      "index": 1,
+                      "keyframe": 100,
+                      "name": "move",
+                      "property": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0
+                      },
+                      "range": {
+                        "max": 500,
+                        "min": -500,
+                        "stop": 1
+                      },
+                      "single": true,
+                      "title": "Move"
+                    }
+                  ],
+                  "transition_origin_x": "center",
+                  "transition_origin_y": "center",
+                  "enable_tablet": 0,
+                  "enable_mobile": 0
+                }
+              ],
+              "mouse_movement": [
+                {
+                  "enable_tilt_effect": 0,
+                  "mouse_tilt_direction": "direct",
+                  "mouse_tilt_speed": "1",
+                  "mouse_tilt_max": "15",
+                  "enable_tablet": 0,
+                  "enable_mobile": 0
+                }
+              ]
+            }
+          },
+          {
+            "id": 1638345737995,
+            "name": "image",
+            "visibility": true,
+            "settings": {
+              "admin_label": "",
+              "title": "",
+              "heading_selector": "h3",
+              "title_fontsize": "",
+              "title_lineheight": "",
+              "title_letterspace": "0",
+              "title_padding": "",
+              "title_position": "top",
+              "image": "images/2021/12/31/polysulfide-adhesive-injection-machine.jpg",
+              "border_radius": 0,
+              "alt_text": "Polysulfide Sealant Applicator",
+              "position": "sppb-text-center",
+              "open_lightbox": 0,
+              "overlay_color": "rgba(119, 219, 31, .5)",
+              "link": "",
+              "class": "",
+              "global_background_type": "none",
+              "global_background_gradient": {
+                "color": "#00c6fb",
+                "color2": "#005bea",
+                "deg": "45",
+                "type": "linear"
+              },
+              "global_background_image": {
+                "src": ""
+              },
+              "global_background_repeat": "no-repeat",
+              "global_background_size": "cover",
+              "global_background_attachment": "inherit",
+              "global_background_position": "50% 50%",
+              "global_use_overlay": 0,
+              "global_overlay_type": "overlay_none",
+              "global_gradient_overlay": {
+                "color": "rgba(127, 0, 255, 0.8)",
+                "color2": "rgba(225, 0, 255, 0.7)",
+                "deg": "45",
+                "type": "linear"
+              },
+              "global_pattern_overlay": {
+                "src": ""
+              },
+              "global_overlay_pattern_color": "",
+              "blend_mode": "normal",
+              "global_user_border": 0,
+              "global_border_width": "",
+              "global_border_radius": 0,
+              "global_margin": {
+                "md": "0px 0px 30px 0px",
+                "sm": "",
+                "xs": ""
+              },
+              "global_padding": "",
+              "global_boxshadow": "0 0 0 0 #ffffff",
+              "global_use_animation": 0,
+              "global_animationduration": "300",
+              "global_animationdelay": "0",
+              "global_custom_css": "",
+              "global_custom_position": 0,
+              "global_seclect_position": "relative",
+              "global_addon_position_left": {
+                "unit": "px"
+              },
+              "global_addon_position_top": {
+                "unit": "px"
+              },
+              "use_global_width": "0",
+              "hidden_md": "0",
+              "hidden_sm": "0",
+              "hidden_xs": "0",
+              "acl": "",
+              "while_scroll_view": [
+                {
+                  "enable_while_scroll_view": 0,
+                  "on_scroll_actions": [
+                    {
+                      "id": "b3fdc1c1e6bfde5942ea",
+                      "index": 0,
+                      "keyframe": 0,
+                      "name": "move",
+                      "property": {
+                        "x": "0",
+                        "y": "-100",
+                        "z": "0"
+                      },
+                      "range": {
+                        "max": 500,
+                        "min": -500,
+                        "stop": 1
+                      },
+                      "single": true,
+                      "title": "Move"
+                    },
+                    {
+                      "id": "936e0225e6dc8edfba7d",
+                      "index": 1,
+                      "keyframe": 100,
+                      "name": "move",
+                      "property": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0
+                      },
+                      "range": {
+                        "max": 500,
+                        "min": -500,
+                        "stop": 1
+                      },
+                      "single": true,
+                      "title": "Move"
+                    }
+                  ],
+                  "transition_origin_x": "center",
+                  "transition_origin_y": "center",
+                  "enable_tablet": 0,
+                  "enable_mobile": 0
+                }
+              ],
+              "mouse_movement": [
+                {
+                  "enable_tilt_effect": 0,
+                  "mouse_tilt_direction": "direct",
+                  "mouse_tilt_speed": "1",
+                  "mouse_tilt_max": "15",
+                  "enable_tablet": 0,
+                  "enable_mobile": 0
+                }
+              ]
+            }
+          },
+          {
+            "id": 1627973001305,
+            "name": "text_block",
+            "visibility": true,
+            "settings": {
+              "admin_label": "",
+              "title": "\n",
+              "heading_selector": "h1",
+              "title_fontsize": "",
+              "title_lineheight": "",
+              "title_letterspace": "0",
+              "text": "<p>The polysulfide sealant applicator is an auxiliary machine used in the production of double-glazed glass and windows. It enables faster and more accurate application of polysulfide sealant and is designed to provide precise control over the application quantity, volume, and pressure.<br />In addition to improving sealant quality, the machine makes the sealing process easier in the factory. Before introducing this applicator, let's take a look at double-glazed glass and the machinery used to produce it.</p>",
+              "alignment": "",
+              "text_fontsize": "",
+              "text_lineheight": "",
+              "text_fontweight": "",
+              "dropcap": 0,
+              "class": "",
+              "global_background_type": "none",
+              "global_background_gradient": {
+                "color": "#00c6fb",
+                "color2": "#005bea",
+                "deg": "45",
+                "type": "linear"
+              },
+              "global_background_image": {
+                "src": ""
+              },
+              "global_background_repeat": "no-repeat",
+              "global_background_size": "cover",
+              "global_background_attachment": "inherit",
+              "global_background_position": "50% 50%",
+              "global_use_overlay": 0,
+              "global_overlay_type": "overlay_none",
+              "global_gradient_overlay": {
+                "color": "rgba(127, 0, 255, 0.8)",
+                "color2": "rgba(225, 0, 255, 0.7)",
+                "deg": "45",
+                "type": "linear"
+              },
+              "global_pattern_overlay": {
+                "src": ""
+              },
+              "global_overlay_pattern_color": "",
+              "blend_mode": "normal",
+              "global_user_border": 0,
+              "global_border_width": "",
+              "global_border_radius": 0,
+              "global_margin": {
+                "md": "0px 0px 30px 0px",
+                "sm": "",
+                "xs": ""
+              },
+              "global_padding": "",
+              "global_boxshadow": "0 0 0 0 #ffffff",
+              "global_use_animation": 0,
+              "global_animationduration": "300",
+              "global_animationdelay": "0",
+              "global_custom_css": "",
+              "global_custom_position": 0,
+              "global_seclect_position": "relative",
+              "global_addon_position_left": {
+                "unit": "px"
+              },
+              "global_addon_position_top": {
+                "unit": "px"
+              },
+              "use_global_width": "0",
+              "hidden_md": "0",
+              "hidden_sm": "0",
+              "hidden_xs": "0",
+              "acl": "",
+              "while_scroll_view": [
+                {
+                  "enable_while_scroll_view": 0,
+                  "on_scroll_actions": [
+                    {
+                      "id": "b3fdc1c1e6bfde5942ea",
+                      "index": 0,
+                      "keyframe": 0,
+                      "name": "move",
+                      "property": {
+                        "x": "0",
+                        "y": "-100",
+                        "z": "0"
+                      },
+                      "range": {
+                        "max": 500,
+                        "min": -500,
+                        "stop": 1
+                      },
+                      "single": true,
+                      "title": "Move"
+                    },
+                    {
+                      "id": "936e0225e6dc8edfba7d",
+                      "index": 1,
+                      "keyframe": 100,
+                      "name": "move",
+                      "property": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0
+                      },
+                      "range": {
+                        "max": 500,
+                        "min": -500,
+                        "stop": 1
+                      },
+                      "single": true,
+                      "title": "Move"
+                    }
+                  ],
+                  "transition_origin_x": "center",
+                  "transition_origin_y": "center",
+                  "enable_tablet": 0,
+                  "enable_mobile": 0
+                }
+              ],
+              "mouse_movement": [
+                {
+                  "enable_tilt_effect": 0,
+                  "mouse_tilt_direction": "direct",
+                  "mouse_tilt_speed": "1",
+                  "mouse_tilt_max": "15",
+                  "enable_tablet": 0,
+                  "enable_mobile": 0
+                }
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1591852645421,
+    "visibility": true,
+    "collapse": false,
+    "settings": {
+      "admin_label": "",
+      "title": "",
+      "heading_selector": "h3",
+      "title_fontsize": "",
+      "title_fontweight": "",
+      "title_position": "sppb-text-center",
+      "columns_align_center": 0,
+      "columns_content_alignment": "center",
+      "fullscreen": 0,
+      "no_gutter": 0,
+      "container_width": {
+        "unit": "px"
+      },
+      "container_max_width": {
+        "unit": "px"
+      },
+      "container_min_width": {
+        "unit": "px"
+      },
+      "row_width": {
+        "unit": "px"
+      },
+      "row_max_width": {
+        "unit": "px"
+      },
+      "row_min_width": {
+        "unit": "px"
+      },
+      "padding": {
+        "md": "0 0 0 0",
+        "sm": "   ",
+        "xs": "   "
+      },
+      "margin": {
+        "md": "0px 0px 0px 0px",
+        "sm": "   ",
+        "xs": "   "
+      },
+      "background_type": "color",
+      "background_gradient": {
+        "color": "#00c6fb",
+        "color2": "#005bea",
+        "deg": "45",
+        "type": "linear"
+      },
+      "background_image": {
+        "src": ""
+      },
+      "background_parallax": "0",
+      "background_repeat": "no-repeat",
+      "background_size": "cover",
+      "background_size_custom": {
+        "unit": "px"
+      },
+      "background_attachment": "fixed",
+      "background_position": "0 0",
+      "background_position_custom_x": {
+        "unit": "px"
+      },
+      "background_position_custom_y": {
+        "unit": "px"
+      },
+      "external_background_video": "0",
+      "background_video_mp4": {
+        "src": ""
+      },
+      "background_video_ogv": {
+        "src": ""
+      },
+      "video_loop": 1,
+      "overlay_type": "overlay_none",
+      "gradient_overlay": {
+        "color": "rgba(127, 0, 255, 0.8)",
+        "color2": "rgba(225, 0, 255, 0.7)",
+        "deg": "45",
+        "type": "linear"
+      },
+      "pattern_overlay": "",
+      "overlay_pattern_color": "",
+      "blend_mode": "normal",
+      "row_border": 0,
+      "row_border_style": "solid",
+      "row_border_radius": 0,
+      "row_boxshadow": "0 0 0 0 #ffffff",
+      "show_top_shape": 0,
+      "shape_name": "clouds-flat",
+      "shape_color": "#e5e5e5",
+      "shape_width": {
+        "md": 100,
+        "sm": 100,
+        "xs": 100
+      },
+      "shape_height": "",
+      "shape_flip": false,
+      "shape_invert": false,
+      "shape_to_front": false,
+      "show_bottom_shape": 0,
+      "bottom_shape_name": "clouds-opacity",
+      "bottom_shape_color": "#e5e5e5",
+      "bottom_shape_width": {
+        "md": 100,
+        "sm": 100,
+        "xs": 100
+      },
+      "bottom_shape_height": "",
+      "bottom_shape_flip": false,
+      "bottom_shape_invert": false,
+      "bottom_shape_to_front": false,
+      "hidden_xs": "",
+      "hidden_sm": "",
+      "hidden_md": "",
+      "animationduration": "300",
+      "animationdelay": "0",
+      "instFormId": 1591852645421,
+      "background_color": "#dfeeee"
+    },
+    "layout": "12",
+    "columns": [
+      {
+        "id": 1591852645420,
+        "class_name": "col-md-12",
+        "visibility": true,
+        "settings": {
+          "background_type": "none",
+          "background_gradient": {
+            "color": "#00c6fb",
+            "color2": "#005bea",
+            "deg": "45",
+            "type": "linear"
+          },
+          "background_image": {
+            "src": ""
+          },
+          "background_repeat": "no-repeat",
+          "background_size": "cover",
+          "background_attachment": "scroll",
+          "background_position": "0 0",
+          "overlay_type": "overlay_color",
+          "gradient_overlay": {
+            "color": "rgba(127, 0, 255, 0.8)",
+            "color2": "rgba(225, 0, 255, 0.7)",
+            "deg": "45",
+            "type": "linear"
+          },
+          "pattern_overlay": {
+            "src": ""
+          },
+          "overlay_pattern_color": "",
+          "blend_mode": "normal",
+          "items_align_center": 0,
+          "items_content_alignment": "center",
+          "use_border": 0,
+          "border_width": "",
+          "border_radius": 0,
+          "boxshadow": "0 0 0 0 #fff",
+          "sm_col": "",
+          "xs_col": "",
+          "tablet_order": "",
+          "mobile_order": "",
+          "hidden_xs": "",
+          "hidden_sm": "",
+          "hidden_md": "",
+          "animationduration": "300",
+          "animationdelay": "0"
+        },
+        "addons": [
+          {
+            "id": 1591853988203,
+            "name": "icon",
+            "visibility": true,
+            "settings": {
+              "admin_label": "",
+              "name": "fas fa-caret-down",
+              "link": "",
+              "size": {
+                "md": "80"
+              },
+              "width": {
+                "md": ""
+              },
+              "height": {
+                "md": "10"
+              },
+              "use_hover": 0,
+              "hover_effect": "zoom-in",
+              "alignment": "sppb-text-center",
+              "class": "",
+              "global_background_type": "none",
+              "global_background_gradient": {
+                "color": "#00c6fb",
+                "color2": "#005bea",
+                "deg": "45",
+                "type": "linear"
+              },
+              "global_background_image": {
+                "src": ""
+              },
+              "global_background_repeat": "no-repeat",
+              "global_background_size": "cover",
+              "global_background_attachment": "inherit",
+              "global_background_position": "50% 50%",
+              "global_use_overlay": 0,
+              "global_overlay_type": "overlay_none",
+              "global_gradient_overlay": {
+                "color": "rgba(127, 0, 255, 0.8)",
+                "color2": "rgba(225, 0, 255, 0.7)",
+                "deg": "45",
+                "type": "linear"
+              },
+              "global_pattern_overlay": {
+                "src": ""
+              },
+              "global_overlay_pattern_color": "",
+              "blend_mode": "normal",
+              "global_user_border": 0,
+              "global_border_width": "",
+              "global_border_radius": {
+                "md": "3",
+                "sm": "",
+                "xs": ""
+              },
+              "global_margin": {
+                "md": "0 0 0 0",
+                "sm": "0 0 0 0",
+                "xs": "0 0 0 0"
+              },
+              "global_padding": {
+                "md": "   ",
+                "sm": "   ",
+                "xs": "   "
+              },
+              "global_boxshadow": "0 0 0 0 #ffffff",
+              "global_use_animation": 0,
+              "global_animationduration": "300",
+              "global_animationdelay": "0",
+              "global_custom_css": "",
+              "global_custom_position": 0,
+              "global_seclect_position": "relative",
+              "global_addon_position_left": {
+                "unit": "px"
+              },
+              "global_addon_position_top": {
+                "unit": "px"
+              },
+              "use_global_width": 0,
+              "hidden_md": 0,
+              "hidden_sm": 0,
+              "hidden_xs": 0,
+              "acl": "",
+              "while_scroll_view": [
+                {
+                  "enable_while_scroll_view": 0,
+                  "on_scroll_actions": [
+                    {
+                      "id": "b3fdc1c1e6bfde5942ea",
+                      "index": 0,
+                      "keyframe": 0,
+                      "name": "move",
+                      "property": {
+                        "x": "0",
+                        "y": "-100",
+                        "z": "0"
+                      },
+                      "range": {
+                        "max": 500,
+                        "min": -500,
+                        "stop": 1
+                      },
+                      "single": true,
+                      "title": "Move"
+                    },
+                    {
+                      "id": "936e0225e6dc8edfba7d",
+                      "index": 1,
+                      "keyframe": 100,
+                      "name": "move",
+                      "property": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0
+                      },
+                      "range": {
+                        "max": 500,
+                        "min": -500,
+                        "stop": 1
+                      },
+                      "single": true,
+                      "title": "Move"
+                    }
+                  ],
+                  "transition_origin_x": "center",
+                  "transition_origin_y": "center",
+                  "enable_tablet": 0,
+                  "enable_mobile": 0
+                }
+              ],
+              "mouse_movement": [
+                {
+                  "enable_tilt_effect": 0,
+                  "mouse_tilt_direction": "direct",
+                  "mouse_tilt_speed": "1",
+                  "mouse_tilt_max": "15",
+                  "enable_tablet": 0,
+                  "enable_mobile": 0
+                }
+              ],
+              "instFormId": 1591853988203,
+              "margin": {
+                "md": "-0 0 0 0",
+                "sm": "   ",
+                "xs": "   "
+              },
+              "color": "#f0f7f7",
+              "background": "",
+              "border_width": {
+                "md": "0",
+                "sm": "",
+                "xs": ""
+              },
+              "border_radius": {
+                "md": "",
+                "sm": "",
+                "xs": ""
+              }
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1591877961801,
+    "visibility": true,
+    "collapse": false,
+    "settings": {
+      "admin_label": "",
+      "title": "",
+      "heading_selector": "h3",
+      "title_fontsize": "",
+      "title_fontweight": "",
+      "title_position": "sppb-text-center",
+      "columns_align_center": 1,
+      "columns_content_alignment": "center",
+      "fullscreen": 0,
+      "no_gutter": 0,
+      "container_width": {
+        "unit": "px"
+      },
+      "container_max_width": {
+        "unit": "px"
+      },
+      "container_min_width": {
+        "unit": "px"
+      },
+      "row_width": {
+        "unit": "px"
+      },
+      "row_max_width": {
+        "unit": "px"
+      },
+      "row_min_width": {
+        "unit": "px"
+      },
+      "padding": {
+        "md": "30px 0px 20px 0px",
+        "sm": "   ",
+        "xs": "   "
+      },
+      "margin": {
+        "md": "0px 0px 0px 0px",
+        "sm": "   ",
+        "xs": "   "
+      },
+      "background_type": "color",
+      "background_gradient": {
+        "color": "#00c6fb",
+        "color2": "#005bea",
+        "deg": "45",
+        "type": "linear"
+      },
+      "background_image": {
+        "src": ""
+      },
+      "background_parallax": "0",
+      "background_repeat": "no-repeat",
+      "background_size": "cover",
+      "background_size_custom": {
+        "unit": "px"
+      },
+      "background_attachment": "fixed",
+      "background_position": "0 0",
+      "background_position_custom_x": {
+        "unit": "px"
+      },
+      "background_position_custom_y": {
+        "unit": "px"
+      },
+      "external_background_video": "0",
+      "background_video_mp4": {
+        "src": ""
+      },
+      "background_video_ogv": {
+        "src": ""
+      },
+      "video_loop": 1,
+      "overlay_type": "overlay_none",
+      "gradient_overlay": {
+        "color": "rgba(127, 0, 255, 0.8)",
+        "color2": "rgba(225, 0, 255, 0.7)",
+        "deg": "45",
+        "type": "linear"
+      },
+      "pattern_overlay": "",
+      "overlay_pattern_color": "",
+      "blend_mode": "normal",
+      "row_border": 0,
+      "row_border_style": "",
+      "row_border_radius": {
+        "md": "0",
+        "sm": "",
+        "xs": ""
+      },
+      "row_boxshadow": {
+        "ho": "0",
+        "vo": "",
+        "blur": "0",
+        "spread": "",
+        "color": "",
+        "inset": false
+      },
+      "show_top_shape": 0,
+      "shape_name": "zigzag-sharp",
+      "shape_color": "#e5e5e5",
+      "shape_width": {
+        "md": "100",
+        "sm": 100,
+        "xs": 100
+      },
+      "shape_height": {
+        "md": "120",
+        "sm": "",
+        "xs": ""
+      },
+      "shape_flip": 0,
+      "shape_invert": 0,
+      "shape_to_front": 1,
+      "show_bottom_shape": 0,
+      "bottom_shape_name": "zigzag-sharp",
+      "bottom_shape_color": "#ffffff",
+      "bottom_shape_width": {
+        "md": "100",
+        "sm": 100,
+        "xs": 100
+      },
+      "bottom_shape_height": {
+        "md": "111",
+        "sm": "",
+        "xs": ""
+      },
+      "bottom_shape_flip": false,
+      "bottom_shape_invert": false,
+      "bottom_shape_to_front": 0,
+      "hidden_xs": 0,
+      "hidden_sm": 0,
+      "hidden_md": 0,
+      "animationduration": "300",
+      "animationdelay": "0",
+      "background_color": "#dfeeee",
+      "color": "#424A4F",
+      "instFormId": 1591849370916,
+      "row_border_width": {
+        "md": "   ",
+        "sm": "   ",
+        "xs": "   "
+      }
+    },
+    "layout": "12",
+    "columns": [
+      {
+        "id": 1591877961843,
+        "class_name": "col-md-12",
+        "visibility": true,
+        "settings": {
+          "background_type": "none",
+          "background_gradient": {
+            "color": "#00c6fb",
+            "color2": "#005bea",
+            "deg": "45",
+            "type": "linear"
+          },
+          "background_image": {
+            "src": ""
+          },
+          "background_repeat": "no-repeat",
+          "background_size": "cover",
+          "background_attachment": "scroll",
+          "background_position": "0 0",
+          "overlay_type": "overlay_color",
+          "gradient_overlay": {
+            "color": "rgba(127, 0, 255, 0.8)",
+            "color2": "rgba(225, 0, 255, 0.7)",
+            "deg": "45",
+            "type": "linear"
+          },
+          "pattern_overlay": {
+            "src": ""
+          },
+          "overlay_pattern_color": "",
+          "blend_mode": "normal",
+          "items_align_center": 0,
+          "items_content_alignment": "center",
+          "use_border": 0,
+          "border_width": "",
+          "border_radius": 0,
+          "boxshadow": "0 0 0 0 #fff",
+          "sm_col": "col-sm-6",
+          "xs_col": "",
+          "tablet_order": "",
+          "mobile_order": "",
+          "hidden_xs": 0,
+          "hidden_sm": 0,
+          "hidden_md": 0,
+          "animationduration": "4000",
+          "animationdelay": "0",
+          "padding": {
+            "md": "   ",
+            "sm": "   ",
+            "xs": "   "
+          },
+          "margin": {
+            "md": "   ",
+            "sm": "   ",
+            "xs": "   "
+          },
+          "background": "#f0f7f7",
+          "color": "",
+          "animation": "bounceInLeft"
+        },
+        "addons": [
+          {
+            "id": 1591877961844,
+            "name": "text_block",
+            "visibility": true,
+            "settings": {
+              "admin_label": "",
+              "title": "What Are the Characteristics of Double-Glazed Glass?",
+              "heading_selector": "h2",
+              "title_fontsize": "",
+              "title_lineheight": "",
+              "title_letterspace": "0",
+              "text": "<p>A double-glazed unit consists of two or more panes of glass arranged parallel to each other at equal spacing and separated by spacer bars.<br />The space between the panes contains air or a dry insulating gas, such as argon or krypton, at a pressure approximately equal to the outside air pressure.<br />Aluminum spacers are commonly used in double-glazed units, and their cavities are filled with desiccant.<br />The desiccant absorbs moisture from the air between the panes, while suitable sealants provide a complete airtight seal.<br />Using double glazing and insulated doors and windows can save approximately 7 cubic meters of gas per square meter per year.<br />In addition to reducing energy consumption, this also helps create a cleaner environment. Other characteristics of double-glazed glass include:<br />1. Reduced energy loss<br />2. Reduced noise pollution<br />3. Prevention of glass condensation<br />4. Greater safety compared with single glazing</p>",
+              "alignment": "",
+              "text_fontsize": {
+                "md": "13",
+                "sm": "",
+                "xs": ""
+              },
+              "text_lineheight": "",
+              "text_fontweight": "",
+              "dropcap": 0,
+              "class": "",
+              "global_background_type": "none",
+              "global_background_gradient": {
+                "color": "#00c6fb",
+                "color2": "#005bea",
+                "deg": "45",
+                "type": "linear"
+              },
+              "global_background_image": {
+                "src": ""
+              },
+              "global_background_repeat": "no-repeat",
+              "global_background_size": "cover",
+              "global_background_attachment": "inherit",
+              "global_background_position": "50% 50%",
+              "global_use_overlay": 0,
+              "global_overlay_type": "overlay_none",
+              "global_gradient_overlay": {
+                "color": "rgba(127, 0, 255, 0.8)",
+                "color2": "rgba(225, 0, 255, 0.7)",
+                "deg": "45",
+                "type": "linear"
+              },
+              "global_pattern_overlay": {
+                "src": ""
+              },
+              "global_overlay_pattern_color": "",
+              "blend_mode": "normal",
+              "global_user_border": 0,
+              "global_border_width": "",
+              "global_border_radius": 0,
+              "global_margin": {
+                "md": "0px 0px 30px 0px",
+                "sm": "0px 0px 20px 0px",
+                "xs": "0px 0px 10px 0px"
+              },
+              "global_padding": {
+                "md": "   ",
+                "sm": "   ",
+                "xs": "   "
+              },
+              "global_boxshadow": "0 0 0 0 #ffffff",
+              "global_use_animation": 0,
+              "global_animationduration": "300",
+              "global_animationdelay": "0",
+              "global_custom_css": "",
+              "global_custom_position": 0,
+              "global_seclect_position": "relative",
+              "global_addon_position_left": {
+                "unit": "px"
+              },
+              "global_addon_position_top": {
+                "unit": "px"
+              },
+              "use_global_width": "0",
+              "hidden_md": "0",
+              "hidden_sm": "0",
+              "hidden_xs": "0",
+              "acl": "",
+              "while_scroll_view": [
+                {
+                  "enable_while_scroll_view": 0,
+                  "on_scroll_actions": [
+                    {
+                      "id": "b3fdc1c1e6bfde5942ea",
+                      "index": 0,
+                      "keyframe": 0,
+                      "name": "move",
+                      "property": {
+                        "x": "0",
+                        "y": "-100",
+                        "z": "0"
+                      },
+                      "range": {
+                        "max": 500,
+                        "min": -500,
+                        "stop": 1
+                      },
+                      "single": true,
+                      "title": "Move"
+                    },
+                    {
+                      "id": "936e0225e6dc8edfba7d",
+                      "index": 1,
+                      "keyframe": 100,
+                      "name": "move",
+                      "property": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0
+                      },
+                      "range": {
+                        "max": 500,
+                        "min": -500,
+                        "stop": 1
+                      },
+                      "single": true,
+                      "title": "Move"
+                    }
+                  ],
+                  "transition_origin_x": "center",
+                  "transition_origin_y": "center",
+                  "enable_tablet": 0,
+                  "enable_mobile": 0
+                }
+              ],
+              "mouse_movement": [
+                {
+                  "enable_tilt_effect": 0,
+                  "mouse_tilt_direction": "direct",
+                  "mouse_tilt_speed": "1",
+                  "mouse_tilt_max": "15",
+                  "enable_tablet": 0,
+                  "enable_mobile": 0
+                }
+              ],
+              "instFormId": 1591849370919
+            }
+          },
+          {
+            "id": 1638345738036,
+            "name": "image",
+            "visibility": true,
+            "settings": {
+              "admin_label": "",
+              "title": "",
+              "heading_selector": "h3",
+              "title_fontsize": "",
+              "title_lineheight": "",
+              "title_letterspace": "0",
+              "title_padding": "",
+              "title_position": "top",
+              "image": "images/2022/01/12/polysulfide-adhesive-injection-machine-1.jpg",
+              "border_radius": 0,
+              "alt_text": "Sale of Polysulfide Sealant Applicator",
+              "position": "sppb-text-center",
+              "open_lightbox": 0,
+              "overlay_color": "rgba(119, 219, 31, .5)",
+              "link": "",
+              "class": "",
+              "global_background_type": "none",
+              "global_background_gradient": {
+                "color": "#00c6fb",
+                "color2": "#005bea",
+                "deg": "45",
+                "type": "linear"
+              },
+              "global_background_image": {
+                "src": ""
+              },
+              "global_background_repeat": "no-repeat",
+              "global_background_size": "cover",
+              "global_background_attachment": "inherit",
+              "global_background_position": "50% 50%",
+              "global_use_overlay": 0,
+              "global_overlay_type": "overlay_none",
+              "global_gradient_overlay": {
+                "color": "rgba(127, 0, 255, 0.8)",
+                "color2": "rgba(225, 0, 255, 0.7)",
+                "deg": "45",
+                "type": "linear"
+              },
+              "global_pattern_overlay": {
+                "src": ""
+              },
+              "global_overlay_pattern_color": "",
+              "blend_mode": "normal",
+              "global_user_border": 0,
+              "global_border_width": "",
+              "global_border_radius": 0,
+              "global_margin": {
+                "md": "0px 0px 30px 0px",
+                "sm": "",
+                "xs": ""
+              },
+              "global_padding": "",
+              "global_boxshadow": "0 0 0 0 #ffffff",
+              "global_use_animation": 0,
+              "global_animationduration": "300",
+              "global_animationdelay": "0",
+              "global_custom_css": "",
+              "global_custom_position": 0,
+              "global_seclect_position": "relative",
+              "global_addon_position_left": {
+                "unit": "px"
+              },
+              "global_addon_position_top": {
+                "unit": "px"
+              },
+              "use_global_width": "0",
+              "hidden_md": "0",
+              "hidden_sm": "0",
+              "hidden_xs": "0",
+              "acl": "",
+              "while_scroll_view": [
+                {
+                  "enable_while_scroll_view": 0,
+                  "on_scroll_actions": [
+                    {
+                      "id": "b3fdc1c1e6bfde5942ea",
+                      "index": 0,
+                      "keyframe": 0,
+                      "name": "move",
+                      "property": {
+                        "x": "0",
+                        "y": "-100",
+                        "z": "0"
+                      },
+                      "range": {
+                        "max": 500,
+                        "min": -500,
+                        "stop": 1
+                      },
+                      "single": true,
+                      "title": "Move"
+                    },
+                    {
+                      "id": "936e0225e6dc8edfba7d",
+                      "index": 1,
+                      "keyframe": 100,
+                      "name": "move",
+                      "property": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0
+                      },
+                      "range": {
+                        "max": 500,
+                        "min": -500,
+                        "stop": 1
+                      },
+                      "single": true,
+                      "title": "Move"
+                    }
+                  ],
+                  "transition_origin_x": "center",
+                  "transition_origin_y": "center",
+                  "enable_tablet": 0,
+                  "enable_mobile": 0
+                }
+              ],
+              "mouse_movement": [
+                {
+                  "enable_tilt_effect": 0,
+                  "mouse_tilt_direction": "direct",
+                  "mouse_tilt_speed": "1",
+                  "mouse_tilt_max": "15",
+                  "enable_tablet": 0,
+                  "enable_mobile": 0
+                }
+              ]
+            }
+          },
+          {
+            "id": 1638345738007,
+            "name": "text_block",
+            "visibility": true,
+            "settings": {
+              "admin_label": "",
+              "title": "ماشین آلات تولید شیشه دوجداره",
+              "heading_selector": "h2",
+              "title_fontsize": "",
+              "title_lineheight": "",
+              "title_letterspace": "0",
+              "text": "<p>The double-glazed glass production process begins with glass sheets being placed on the automatic handling machine's conveyors and transferred to the automatic cutting table in the quantity specified by the operator.<br />Optimization software calculates the required glass dimensions to minimize waste, and the machine then cuts the sheets accordingly.<br />After separation, the glass sheets are transferred to the insulating glass production line. They are first washed thoroughly with softened water, then undergo quality inspection before moving to the next stage.<br />In parallel, spacer frames are bent and cut to the required glass dimensions. The inside of each frame is then filled with desiccant.<br />Both edges of the spacer frame are coated with butyl using a butyl applicator. This seals the frame and allows it to be positioned between and bonded to the two panes of glass.<br />The frames are transferred for installation on the glass, and the assembled units are then moved to the pressing machine.<br />At the same time, argon gas is automatically injected into the double-glazed unit. The perimeter is then filled with polysulfide sealant to provide the secondary seal.<br />The following machines are essential throughout this process:<br />Automatic glass loading, cutting, and breakout machine<br />Fully automatic glass washing machine<br />Panel-type double-glazed glass pressing machine<br />Spacer bar cutting machine<br />Butyl applicator<br />Polysulfide sealant applicator<br />Fully automatic inert gas filling machine</p>",
+              "alignment": "",
+              "text_fontsize": {
+                "md": "13",
+                "sm": "",
+                "xs": ""
+              },
+              "text_lineheight": "",
+              "text_fontweight": "",
+              "dropcap": 0,
+              "class": "",
+              "global_background_type": "none",
+              "global_background_gradient": {
+                "color": "#00c6fb",
+                "color2": "#005bea",
+                "deg": "45",
+                "type": "linear"
+              },
+              "global_background_image": {
+                "src": ""
+              },
+              "global_background_repeat": "no-repeat",
+              "global_background_size": "cover",
+              "global_background_attachment": "inherit",
+              "global_background_position": "50% 50%",
+              "global_use_overlay": 0,
+              "global_overlay_type": "overlay_none",
+              "global_gradient_overlay": {
+                "color": "rgba(127, 0, 255, 0.8)",
+                "color2": "rgba(225, 0, 255, 0.7)",
+                "deg": "45",
+                "type": "linear"
+              },
+              "global_pattern_overlay": {
+                "src": ""
+              },
+              "global_overlay_pattern_color": "",
+              "blend_mode": "normal",
+              "global_user_border": 0,
+              "global_border_width": "",
+              "global_border_radius": 0,
+              "global_margin": {
+                "md": "0px 0px 30px 0px",
+                "sm": "0px 0px 20px 0px",
+                "xs": "0px 0px 10px 0px"
+              },
+              "global_padding": {
+                "md": "   ",
+                "sm": "   ",
+                "xs": "   "
+              },
+              "global_boxshadow": "0 0 0 0 #ffffff",
+              "global_use_animation": 0,
+              "global_animationduration": "300",
+              "global_animationdelay": "0",
+              "global_custom_css": "",
+              "global_custom_position": 0,
+              "global_seclect_position": "relative",
+              "global_addon_position_left": {
+                "unit": "px"
+              },
+              "global_addon_position_top": {
+                "unit": "px"
+              },
+              "use_global_width": "0",
+              "hidden_md": "0",
+              "hidden_sm": "0",
+              "hidden_xs": "0",
+              "acl": "",
+              "while_scroll_view": [
+                {
+                  "enable_while_scroll_view": 0,
+                  "on_scroll_actions": [
+                    {
+                      "id": "b3fdc1c1e6bfde5942ea",
+                      "index": 0,
+                      "keyframe": 0,
+                      "name": "move",
+                      "property": {
+                        "x": "0",
+                        "y": "-100",
+                        "z": "0"
+                      },
+                      "range": {
+                        "max": 500,
+                        "min": -500,
+                        "stop": 1
+                      },
+                      "single": true,
+                      "title": "Move"
+                    },
+                    {
+                      "id": "936e0225e6dc8edfba7d",
+                      "index": 1,
+                      "keyframe": 100,
+                      "name": "move",
+                      "property": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0
+                      },
+                      "range": {
+                        "max": 500,
+                        "min": -500,
+                        "stop": 1
+                      },
+                      "single": true,
+                      "title": "Move"
+                    }
+                  ],
+                  "transition_origin_x": "center",
+                  "transition_origin_y": "center",
+                  "enable_tablet": 0,
+                  "enable_mobile": 0
+                }
+              ],
+              "mouse_movement": [
+                {
+                  "enable_tilt_effect": 0,
+                  "mouse_tilt_direction": "direct",
+                  "mouse_tilt_speed": "1",
+                  "mouse_tilt_max": "15",
+                  "enable_tablet": 0,
+                  "enable_mobile": 0
+                }
+              ],
+              "instFormId": 1591849370919
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1591877961804,
+    "visibility": true,
+    "collapse": false,
+    "settings": {
+      "admin_label": "",
+      "title": "",
+      "heading_selector": "h3",
+      "title_fontsize": "",
+      "title_fontweight": "",
+      "title_position": "sppb-text-center",
+      "columns_align_center": 0,
+      "columns_content_alignment": "center",
+      "fullscreen": 0,
+      "no_gutter": 0,
+      "container_width": {
+        "unit": "px"
+      },
+      "container_max_width": {
+        "unit": "px"
+      },
+      "container_min_width": {
+        "unit": "px"
+      },
+      "row_width": {
+        "unit": "px"
+      },
+      "row_max_width": {
+        "unit": "px"
+      },
+      "row_min_width": {
+        "unit": "px"
+      },
+      "padding": {
+        "md": "0 0 0 0",
+        "sm": "   ",
+        "xs": "   "
+      },
+      "margin": {
+        "md": "0px 0px 0px 0px",
+        "sm": "   ",
+        "xs": "   "
+      },
+      "background_type": "color",
+      "background_gradient": {
+        "color": "#00c6fb",
+        "color2": "#005bea",
+        "deg": "45",
+        "type": "linear"
+      },
+      "background_image": {
+        "src": ""
+      },
+      "background_parallax": "0",
+      "background_repeat": "no-repeat",
+      "background_size": "cover",
+      "background_size_custom": {
+        "unit": "px"
+      },
+      "background_attachment": "fixed",
+      "background_position": "0 0",
+      "background_position_custom_x": {
+        "unit": "px"
+      },
+      "background_position_custom_y": {
+        "unit": "px"
+      },
+      "external_background_video": "0",
+      "background_video_mp4": {
+        "src": ""
+      },
+      "background_video_ogv": {
+        "src": ""
+      },
+      "video_loop": 1,
+      "overlay_type": "overlay_none",
+      "gradient_overlay": {
+        "color": "rgba(127, 0, 255, 0.8)",
+        "color2": "rgba(225, 0, 255, 0.7)",
+        "deg": "45",
+        "type": "linear"
+      },
+      "pattern_overlay": "",
+      "overlay_pattern_color": "",
+      "blend_mode": "normal",
+      "row_border": 0,
+      "row_border_style": "solid",
+      "row_border_radius": 0,
+      "row_boxshadow": "0 0 0 0 #ffffff",
+      "show_top_shape": 0,
+      "shape_name": "clouds-flat",
+      "shape_color": "#e5e5e5",
+      "shape_width": {
+        "md": 100,
+        "sm": 100,
+        "xs": 100
+      },
+      "shape_height": "",
+      "shape_flip": false,
+      "shape_invert": false,
+      "shape_to_front": false,
+      "show_bottom_shape": 0,
+      "bottom_shape_name": "clouds-opacity",
+      "bottom_shape_color": "#e5e5e5",
+      "bottom_shape_width": {
+        "md": 100,
+        "sm": 100,
+        "xs": 100
+      },
+      "bottom_shape_height": "",
+      "bottom_shape_flip": false,
+      "bottom_shape_invert": false,
+      "bottom_shape_to_front": false,
+      "hidden_xs": "",
+      "hidden_sm": "",
+      "hidden_md": "",
+      "animationduration": "300",
+      "animationdelay": "0",
+      "instFormId": 1591852645421,
+      "background_color": "#f0f7f7"
+    },
+    "layout": "12",
+    "columns": [
+      {
+        "id": 1591877961846,
+        "class_name": "col-md-12",
+        "visibility": true,
+        "settings": {
+          "background_type": "none",
+          "background_gradient": {
+            "color": "#00c6fb",
+            "color2": "#005bea",
+            "deg": "45",
+            "type": "linear"
+          },
+          "background_image": {
+            "src": ""
+          },
+          "background_repeat": "no-repeat",
+          "background_size": "cover",
+          "background_attachment": "scroll",
+          "background_position": "0 0",
+          "overlay_type": "overlay_color",
+          "gradient_overlay": {
+            "color": "rgba(127, 0, 255, 0.8)",
+            "color2": "rgba(225, 0, 255, 0.7)",
+            "deg": "45",
+            "type": "linear"
+          },
+          "pattern_overlay": {
+            "src": ""
+          },
+          "overlay_pattern_color": "",
+          "blend_mode": "normal",
+          "items_align_center": 0,
+          "items_content_alignment": "center",
+          "use_border": 0,
+          "border_width": "",
+          "border_radius": 0,
+          "boxshadow": "0 0 0 0 #fff",
+          "sm_col": "",
+          "xs_col": "",
+          "tablet_order": "",
+          "mobile_order": "",
+          "hidden_xs": "",
+          "hidden_sm": "",
+          "hidden_md": "",
+          "animationduration": "300",
+          "animationdelay": "0"
+        },
+        "addons": [
+          {
+            "id": 1591877961847,
+            "name": "icon",
+            "visibility": true,
+            "settings": {
+              "admin_label": "",
+              "name": "fas fa-caret-down",
+              "link": "",
+              "size": {
+                "md": "80"
+              },
+              "width": {
+                "md": ""
+              },
+              "height": {
+                "md": "10"
+              },
+              "use_hover": 0,
+              "hover_effect": "zoom-in",
+              "alignment": "sppb-text-center",
+              "class": "",
+              "global_background_type": "none",
+              "global_background_gradient": {
+                "color": "#00c6fb",
+                "color2": "#005bea",
+                "deg": "45",
+                "type": "linear"
+              },
+              "global_background_image": {
+                "src": ""
+              },
+              "global_background_repeat": "no-repeat",
+              "global_background_size": "cover",
+              "global_background_attachment": "inherit",
+              "global_background_position": "50% 50%",
+              "global_use_overlay": 0,
+              "global_overlay_type": "overlay_none",
+              "global_gradient_overlay": {
+                "color": "rgba(127, 0, 255, 0.8)",
+                "color2": "rgba(225, 0, 255, 0.7)",
+                "deg": "45",
+                "type": "linear"
+              },
+              "global_pattern_overlay": {
+                "src": ""
+              },
+              "global_overlay_pattern_color": "",
+              "blend_mode": "normal",
+              "global_user_border": 0,
+              "global_border_width": "",
+              "global_border_radius": {
+                "md": "3",
+                "sm": "",
+                "xs": ""
+              },
+              "global_margin": {
+                "md": "0 0 0 0",
+                "sm": "0 0 0 0",
+                "xs": "0 0 0 0"
+              },
+              "global_padding": {
+                "md": "   ",
+                "sm": "   ",
+                "xs": "   "
+              },
+              "global_boxshadow": "0 0 0 0 #ffffff",
+              "global_use_animation": 0,
+              "global_animationduration": "300",
+              "global_animationdelay": "0",
+              "global_custom_css": "",
+              "global_custom_position": 0,
+              "global_seclect_position": "relative",
+              "global_addon_position_left": {
+                "unit": "px"
+              },
+              "global_addon_position_top": {
+                "unit": "px"
+              },
+              "use_global_width": 0,
+              "hidden_md": 0,
+              "hidden_sm": 0,
+              "hidden_xs": 0,
+              "acl": "",
+              "while_scroll_view": [
+                {
+                  "enable_while_scroll_view": 0,
+                  "on_scroll_actions": [
+                    {
+                      "id": "b3fdc1c1e6bfde5942ea",
+                      "index": 0,
+                      "keyframe": 0,
+                      "name": "move",
+                      "property": {
+                        "x": "0",
+                        "y": "-100",
+                        "z": "0"
+                      },
+                      "range": {
+                        "max": 500,
+                        "min": -500,
+                        "stop": 1
+                      },
+                      "single": true,
+                      "title": "Move"
+                    },
+                    {
+                      "id": "936e0225e6dc8edfba7d",
+                      "index": 1,
+                      "keyframe": 100,
+                      "name": "move",
+                      "property": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0
+                      },
+                      "range": {
+                        "max": 500,
+                        "min": -500,
+                        "stop": 1
+                      },
+                      "single": true,
+                      "title": "Move"
+                    }
+                  ],
+                  "transition_origin_x": "center",
+                  "transition_origin_y": "center",
+                  "enable_tablet": 0,
+                  "enable_mobile": 0
+                }
+              ],
+              "mouse_movement": [
+                {
+                  "enable_tilt_effect": 0,
+                  "mouse_tilt_direction": "direct",
+                  "mouse_tilt_speed": "1",
+                  "mouse_tilt_max": "15",
+                  "enable_tablet": 0,
+                  "enable_mobile": 0
+                }
+              ],
+              "instFormId": 1591853988203,
+              "margin": {
+                "md": "-0 0 0 0",
+                "sm": "   ",
+                "xs": "   "
+              },
+              "color": "#dfeeee",
+              "background": "",
+              "border_width": {
+                "md": "0",
+                "sm": "",
+                "xs": ""
+              },
+              "border_radius": {
+                "md": "",
+                "sm": "",
+                "xs": ""
+              }
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1591877961812,
+    "visibility": true,
+    "collapse": false,
+    "settings": {
+      "admin_label": "",
+      "title": "",
+      "heading_selector": "h3",
+      "title_fontsize": "",
+      "title_fontweight": "",
+      "title_position": "sppb-text-center",
+      "columns_align_center": 0,
+      "columns_content_alignment": "center",
+      "fullscreen": 0,
+      "no_gutter": 0,
+      "container_width": {
+        "unit": "px"
+      },
+      "container_max_width": {
+        "unit": "px"
+      },
+      "container_min_width": {
+        "unit": "px"
+      },
+      "row_width": {
+        "unit": "px"
+      },
+      "row_max_width": {
+        "unit": "px"
+      },
+      "row_min_width": {
+        "unit": "px"
+      },
+      "padding": {
+        "md": "10px 0px 20px 0px",
+        "sm": "   ",
+        "xs": "   "
+      },
+      "margin": {
+        "md": "0px 0px 0px 0px",
+        "sm": "   ",
+        "xs": "   "
+      },
+      "background_type": "color",
+      "background_gradient": {
+        "color": "#00c6fb",
+        "color2": "#005bea",
+        "deg": "45",
+        "type": "linear"
+      },
+      "background_image": {
+        "src": ""
+      },
+      "background_parallax": "0",
+      "background_repeat": "no-repeat",
+      "background_size": "cover",
+      "background_size_custom": {
+        "unit": "px"
+      },
+      "background_attachment": "fixed",
+      "background_position": "0 0",
+      "background_position_custom_x": {
+        "unit": "px"
+      },
+      "background_position_custom_y": {
+        "unit": "px"
+      },
+      "external_background_video": "0",
+      "background_video_mp4": {
+        "src": ""
+      },
+      "background_video_ogv": {
+        "src": ""
+      },
+      "video_loop": 1,
+      "overlay_type": "overlay_none",
+      "gradient_overlay": {
+        "color": "rgba(127, 0, 255, 0.8)",
+        "color2": "rgba(225, 0, 255, 0.7)",
+        "deg": "45",
+        "type": "linear"
+      },
+      "pattern_overlay": "",
+      "overlay_pattern_color": "",
+      "blend_mode": "normal",
+      "row_border": 0,
+      "row_border_style": "",
+      "row_border_radius": {
+        "md": "0",
+        "sm": "",
+        "xs": ""
+      },
+      "row_boxshadow": {
+        "ho": "0",
+        "vo": "",
+        "blur": "0",
+        "spread": "",
+        "color": "",
+        "inset": false
+      },
+      "show_top_shape": 0,
+      "shape_name": "zigzag-sharp",
+      "shape_color": "#e5e5e5",
+      "shape_width": {
+        "md": "100",
+        "sm": 100,
+        "xs": 100
+      },
+      "shape_height": {
+        "md": "120",
+        "sm": "",
+        "xs": ""
+      },
+      "shape_flip": 0,
+      "shape_invert": 0,
+      "shape_to_front": 1,
+      "show_bottom_shape": 0,
+      "bottom_shape_name": "zigzag-sharp",
+      "bottom_shape_color": "#ffffff",
+      "bottom_shape_width": {
+        "md": "100",
+        "sm": 100,
+        "xs": 100
+      },
+      "bottom_shape_height": {
+        "md": "111",
+        "sm": "",
+        "xs": ""
+      },
+      "bottom_shape_flip": false,
+      "bottom_shape_invert": false,
+      "bottom_shape_to_front": 0,
+      "hidden_xs": 0,
+      "hidden_sm": 0,
+      "hidden_md": 0,
+      "animationduration": "300",
+      "animationdelay": "0",
+      "background_color": "#f0f7f7",
+      "color": "#424A4F",
+      "instFormId": 1591849370916,
+      "row_border_width": {
+        "md": "   ",
+        "sm": "   ",
+        "xs": "   "
+      }
+    },
+    "layout": "12",
+    "columns": [
+      {
+        "id": 1591877961852,
+        "class_name": "col-md-12",
+        "visibility": true,
+        "settings": {
+          "background_type": "none",
+          "background_gradient": {
+            "color": "#00c6fb",
+            "color2": "#005bea",
+            "deg": "45",
+            "type": "linear"
+          },
+          "background_image": {
+            "src": ""
+          },
+          "background_repeat": "no-repeat",
+          "background_size": "cover",
+          "background_attachment": "scroll",
+          "background_position": "0 0",
+          "overlay_type": "overlay_color",
+          "gradient_overlay": {
+            "color": "rgba(127, 0, 255, 0.8)",
+            "color2": "rgba(225, 0, 255, 0.7)",
+            "deg": "45",
+            "type": "linear"
+          },
+          "pattern_overlay": {
+            "src": ""
+          },
+          "overlay_pattern_color": "",
+          "blend_mode": "normal",
+          "items_align_center": 0,
+          "items_content_alignment": "center",
+          "use_border": 0,
+          "border_width": "",
+          "border_radius": 0,
+          "boxshadow": "0 0 0 0 #fff",
+          "sm_col": "",
+          "xs_col": "",
+          "tablet_order": "",
+          "mobile_order": "",
+          "hidden_xs": "",
+          "hidden_sm": "",
+          "hidden_md": "",
+          "animationduration": "4000",
+          "animationdelay": "0",
+          "padding": {
+            "md": "   ",
+            "sm": "   ",
+            "xs": "   "
+          },
+          "margin": {
+            "md": "   ",
+            "sm": "   ",
+            "xs": "   "
+          },
+          "background": "#f0f7f7",
+          "color": "",
+          "animation": "bounceInUp"
+        },
+        "addons": [
+          {
+            "id": 1591877961853,
+            "name": "text_block",
+            "visibility": true,
+            "settings": {
+              "admin_label": "",
+              "title": "What Is a Polysulfide Sealant Applicator?",
+              "heading_selector": "h2",
+              "title_fontsize": "",
+              "title_lineheight": "",
+              "title_letterspace": "0",
+              "text": "Polysulfide sealant is widely used as a high-performance sealant in double-glazed glass manufacturing, the aerospace industry, tank sealing, and other applications.<br />Its resistance to chemicals makes it a durable and reliable sealing material.<br />Double-glazed glass units are insulated to provide the performance expected of a suitable, standard window.<br />There are several ways to apply polysulfide sealant. In modern double-glazed glass production, automated application technology has replaced labor-intensive manual methods.<br />The polysulfide sealant applicator is designed so that the amount and volume of discharged sealant can be adjusted according to material flow and pressure, reducing material waste.<br />This machine is specifically designed to process a wide range of high-viscosity materials.<br />Accordingly, the machines are configured to dispense, meter, and mix resins under optimum conditions.<br />Two-component polysulfide sealant, which offers improved properties compared with conventional polysulfide sealant, can be used in double-glazed glass production, providing users with confidence in the quality and durability of the finished product.<br />Two-component polysulfide sealant is suitable for sealing joints and bonding components and structures. It is used in industries such as petrochemicals, refineries, and manufacturing plants, as well as for sealing precast concrete and many other applications.<br />It is also a suitable option for sealing double-glazed windows. In addition to its strength and durability, it remains flexible under movement and prevents water and moisture from entering the cavity between the panes.<br />This helps ensure the quality and reliability of double-glazed windows.<br />Key properties of polysulfide sealant include:<br />Flexible, with high elasticity<br />Resistant to cracking<br />Resistant to sunlight and UV radiation<br />Resistant to abrasion, corrosion, and impact<br />Resistant to corrosive chemicals such as salts and petroleum products<br />Environmentally compatible<br />Specified working time<br />Solvent-free<br />Provides high-strength bonding",
+              "alignment": "",
+              "text_fontsize": {
+                "md": "13",
+                "sm": "",
+                "xs": ""
+              },
+              "text_lineheight": "",
+              "text_fontweight": "",
+              "dropcap": 0,
+              "class": "",
+              "global_background_type": "none",
+              "global_background_gradient": {
+                "color": "#00c6fb",
+                "color2": "#005bea",
+                "deg": "45",
+                "type": "linear"
+              },
+              "global_background_image": {
+                "src": ""
+              },
+              "global_background_repeat": "no-repeat",
+              "global_background_size": "cover",
+              "global_background_attachment": "inherit",
+              "global_background_position": "50% 50%",
+              "global_use_overlay": 0,
+              "global_overlay_type": "overlay_none",
+              "global_gradient_overlay": {
+                "color": "rgba(127, 0, 255, 0.8)",
+                "color2": "rgba(225, 0, 255, 0.7)",
+                "deg": "45",
+                "type": "linear"
+              },
+              "global_pattern_overlay": {
+                "src": ""
+              },
+              "global_overlay_pattern_color": "",
+              "blend_mode": "normal",
+              "global_user_border": 0,
+              "global_border_width": "",
+              "global_border_radius": 0,
+              "global_margin": {
+                "md": "0px 0px 30px 0px",
+                "sm": "0px 0px 20px 0px",
+                "xs": "0px 0px 10px 0px"
+              },
+              "global_padding": {
+                "md": "   ",
+                "sm": "   ",
+                "xs": "   "
+              },
+              "global_boxshadow": "0 0 0 0 #ffffff",
+              "global_use_animation": 0,
+              "global_animationduration": "300",
+              "global_animationdelay": "0",
+              "global_custom_css": "",
+              "global_custom_position": 0,
+              "global_seclect_position": "relative",
+              "global_addon_position_left": {
+                "unit": "px"
+              },
+              "global_addon_position_top": {
+                "unit": "px"
+              },
+              "use_global_width": "0",
+              "hidden_md": "0",
+              "hidden_sm": "0",
+              "hidden_xs": "0",
+              "acl": "",
+              "while_scroll_view": [
+                {
+                  "enable_while_scroll_view": 0,
+                  "on_scroll_actions": [
+                    {
+                      "id": "b3fdc1c1e6bfde5942ea",
+                      "index": 0,
+                      "keyframe": 0,
+                      "name": "move",
+                      "property": {
+                        "x": "0",
+                        "y": "-100",
+                        "z": "0"
+                      },
+                      "range": {
+                        "max": 500,
+                        "min": -500,
+                        "stop": 1
+                      },
+                      "single": true,
+                      "title": "Move"
+                    },
+                    {
+                      "id": "936e0225e6dc8edfba7d",
+                      "index": 1,
+                      "keyframe": 100,
+                      "name": "move",
+                      "property": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0
+                      },
+                      "range": {
+                        "max": 500,
+                        "min": -500,
+                        "stop": 1
+                      },
+                      "single": true,
+                      "title": "Move"
+                    }
+                  ],
+                  "transition_origin_x": "center",
+                  "transition_origin_y": "center",
+                  "enable_tablet": 0,
+                  "enable_mobile": 0
+                }
+              ],
+              "mouse_movement": [
+                {
+                  "enable_tilt_effect": 0,
+                  "mouse_tilt_direction": "direct",
+                  "mouse_tilt_speed": "1",
+                  "mouse_tilt_max": "15",
+                  "enable_tablet": 0,
+                  "enable_mobile": 0
+                }
+              ],
+              "instFormId": 1591849370919,
+              "global_animation": ""
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1591892788839,
+    "visibility": true,
+    "collapse": false,
+    "settings": {
+      "admin_label": "",
+      "title": "",
+      "heading_selector": "h3",
+      "title_fontsize": "",
+      "title_fontweight": "",
+      "title_position": "sppb-text-center",
+      "columns_align_center": 0,
+      "columns_content_alignment": "center",
+      "fullscreen": 0,
+      "no_gutter": 0,
+      "container_width": {
+        "unit": "px"
+      },
+      "container_max_width": {
+        "unit": "px"
+      },
+      "container_min_width": {
+        "unit": "px"
+      },
+      "row_width": {
+        "unit": "px"
+      },
+      "row_max_width": {
+        "unit": "px"
+      },
+      "row_min_width": {
+        "unit": "px"
+      },
+      "padding": {
+        "md": "0 0 0 0",
+        "sm": "   ",
+        "xs": "   "
+      },
+      "margin": {
+        "md": "0px 0px 0px 0px",
+        "sm": "   ",
+        "xs": "   "
+      },
+      "background_type": "color",
+      "background_gradient": {
+        "color": "#00c6fb",
+        "color2": "#005bea",
+        "deg": "45",
+        "type": "linear"
+      },
+      "background_image": {
+        "src": ""
+      },
+      "background_parallax": "0",
+      "background_repeat": "no-repeat",
+      "background_size": "cover",
+      "background_size_custom": {
+        "unit": "px"
+      },
+      "background_attachment": "fixed",
+      "background_position": "0 0",
+      "background_position_custom_x": {
+        "unit": "px"
+      },
+      "background_position_custom_y": {
+        "unit": "px"
+      },
+      "external_background_video": "0",
+      "background_video_mp4": {
+        "src": ""
+      },
+      "background_video_ogv": {
+        "src": ""
+      },
+      "video_loop": 1,
+      "overlay_type": "overlay_none",
+      "gradient_overlay": {
+        "color": "rgba(127, 0, 255, 0.8)",
+        "color2": "rgba(225, 0, 255, 0.7)",
+        "deg": "45",
+        "type": "linear"
+      },
+      "pattern_overlay": "",
+      "overlay_pattern_color": "",
+      "blend_mode": "normal",
+      "row_border": 0,
+      "row_border_style": "solid",
+      "row_border_radius": 0,
+      "row_boxshadow": "0 0 0 0 #ffffff",
+      "show_top_shape": 0,
+      "shape_name": "clouds-flat",
+      "shape_color": "#e5e5e5",
+      "shape_width": {
+        "md": 100,
+        "sm": 100,
+        "xs": 100
+      },
+      "shape_height": "",
+      "shape_flip": false,
+      "shape_invert": false,
+      "shape_to_front": false,
+      "show_bottom_shape": 0,
+      "bottom_shape_name": "clouds-opacity",
+      "bottom_shape_color": "#e5e5e5",
+      "bottom_shape_width": {
+        "md": 100,
+        "sm": 100,
+        "xs": 100
+      },
+      "bottom_shape_height": "",
+      "bottom_shape_flip": false,
+      "bottom_shape_invert": false,
+      "bottom_shape_to_front": false,
+      "hidden_xs": "",
+      "hidden_sm": "",
+      "hidden_md": "",
+      "animationduration": "300",
+      "animationdelay": "0",
+      "instFormId": 1591852645421,
+      "background_color": "#dfeeee"
+    },
+    "layout": "12",
+    "columns": [
+      {
+        "id": 1591892788853,
+        "class_name": "col-md-12",
+        "visibility": true,
+        "settings": {
+          "background_type": "none",
+          "background_gradient": {
+            "color": "#00c6fb",
+            "color2": "#005bea",
+            "deg": "45",
+            "type": "linear"
+          },
+          "background_image": {
+            "src": ""
+          },
+          "background_repeat": "no-repeat",
+          "background_size": "cover",
+          "background_attachment": "scroll",
+          "background_position": "0 0",
+          "overlay_type": "overlay_color",
+          "gradient_overlay": {
+            "color": "rgba(127, 0, 255, 0.8)",
+            "color2": "rgba(225, 0, 255, 0.7)",
+            "deg": "45",
+            "type": "linear"
+          },
+          "pattern_overlay": {
+            "src": ""
+          },
+          "overlay_pattern_color": "",
+          "blend_mode": "normal",
+          "items_align_center": 0,
+          "items_content_alignment": "center",
+          "use_border": 0,
+          "border_width": "",
+          "border_radius": 0,
+          "boxshadow": "0 0 0 0 #fff",
+          "sm_col": "",
+          "xs_col": "",
+          "tablet_order": "",
+          "mobile_order": "",
+          "hidden_xs": "",
+          "hidden_sm": "",
+          "hidden_md": "",
+          "animationduration": "300",
+          "animationdelay": "0"
+        },
+        "addons": [
+          {
+            "id": 1591892788854,
+            "name": "icon",
+            "visibility": true,
+            "settings": {
+              "admin_label": "",
+              "name": "fas fa-angle-right",
+              "link": "",
+              "size": {
+                "md": "80"
+              },
+              "width": {
+                "md": ""
+              },
+              "height": {
+                "md": "10"
+              },
+              "use_hover": 0,
+              "hover_effect": "zoom-in",
+              "alignment": "sppb-text-center",
+              "class": "",
+              "global_background_type": "none",
+              "global_background_gradient": {
+                "color": "#00c6fb",
+                "color2": "#005bea",
+                "deg": "45",
+                "type": "linear"
+              },
+              "global_background_image": {
+                "src": ""
+              },
+              "global_background_repeat": "no-repeat",
+              "global_background_size": "cover",
+              "global_background_attachment": "inherit",
+              "global_background_position": "50% 50%",
+              "global_use_overlay": 0,
+              "global_overlay_type": "overlay_none",
+              "global_gradient_overlay": {
+                "color": "rgba(127, 0, 255, 0.8)",
+                "color2": "rgba(225, 0, 255, 0.7)",
+                "deg": "45",
+                "type": "linear"
+              },
+              "global_pattern_overlay": {
+                "src": ""
+              },
+              "global_overlay_pattern_color": "",
+              "blend_mode": "normal",
+              "global_user_border": 0,
+              "global_border_width": "",
+              "global_border_radius": {
+                "md": "3",
+                "sm": "",
+                "xs": ""
+              },
+              "global_margin": {
+                "md": "0 0 0 0",
+                "sm": "0 0 0 0",
+                "xs": "0 0 0 0"
+              },
+              "global_padding": {
+                "md": "   ",
+                "sm": "   ",
+                "xs": "   "
+              },
+              "global_boxshadow": "0 0 0 0 #ffffff",
+              "global_use_animation": 0,
+              "global_animationduration": "300",
+              "global_animationdelay": "0",
+              "global_custom_css": "",
+              "global_custom_position": 0,
+              "global_seclect_position": "relative",
+              "global_addon_position_left": {
+                "unit": "px"
+              },
+              "global_addon_position_top": {
+                "unit": "px"
+              },
+              "use_global_width": 0,
+              "hidden_md": 0,
+              "hidden_sm": 0,
+              "hidden_xs": 0,
+              "acl": "",
+              "while_scroll_view": [
+                {
+                  "enable_while_scroll_view": 0,
+                  "on_scroll_actions": [
+                    {
+                      "id": "b3fdc1c1e6bfde5942ea",
+                      "index": 0,
+                      "keyframe": 0,
+                      "name": "move",
+                      "property": {
+                        "x": "0",
+                        "y": "-100",
+                        "z": "0"
+                      },
+                      "range": {
+                        "max": 500,
+                        "min": -500,
+                        "stop": 1
+                      },
+                      "single": true,
+                      "title": "Move"
+                    },
+                    {
+                      "id": "936e0225e6dc8edfba7d",
+                      "index": 1,
+                      "keyframe": 100,
+                      "name": "move",
+                      "property": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0
+                      },
+                      "range": {
+                        "max": 500,
+                        "min": -500,
+                        "stop": 1
+                      },
+                      "single": true,
+                      "title": "Move"
+                    }
+                  ],
+                  "transition_origin_x": "center",
+                  "transition_origin_y": "center",
+                  "enable_tablet": 0,
+                  "enable_mobile": 0
+                }
+              ],
+              "mouse_movement": [
+                {
+                  "enable_tilt_effect": 0,
+                  "mouse_tilt_direction": "direct",
+                  "mouse_tilt_speed": "1",
+                  "mouse_tilt_max": "15",
+                  "enable_tablet": 0,
+                  "enable_mobile": 0
+                }
+              ],
+              "instFormId": 1591853988203,
+              "margin": {
+                "md": "-0 0 0 0",
+                "sm": "   ",
+                "xs": "   "
+              },
+              "color": "#f0f7f7",
+              "background": "",
+              "border_width": {
+                "md": "0",
+                "sm": "",
+                "xs": ""
+              },
+              "border_radius": {
+                "md": "",
+                "sm": "",
+                "xs": ""
+              }
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1633713458067,
+    "visibility": true,
+    "collapse": false,
+    "settings": {
+      "admin_label": "",
+      "title": "",
+      "heading_selector": "h3",
+      "title_fontsize": "",
+      "title_fontweight": "",
+      "title_position": "sppb-text-center",
+      "columns_align_center": 1,
+      "columns_content_alignment": "center",
+      "fullscreen": 0,
+      "no_gutter": 0,
+      "container_width": {
+        "unit": "px"
+      },
+      "container_max_width": {
+        "unit": "px"
+      },
+      "container_min_width": {
+        "unit": "px"
+      },
+      "row_width": {
+        "unit": "px"
+      },
+      "row_max_width": {
+        "unit": "px"
+      },
+      "row_min_width": {
+        "unit": "px"
+      },
+      "padding": {
+        "md": "30px 0px 20px 0px",
+        "sm": "   ",
+        "xs": "   "
+      },
+      "margin": {
+        "md": "0px 0px 0px 0px",
+        "sm": "   ",
+        "xs": "   "
+      },
+      "background_type": "color",
+      "background_gradient": {
+        "color": "#00c6fb",
+        "color2": "#005bea",
+        "deg": "45",
+        "type": "linear"
+      },
+      "background_image": {
+        "src": ""
+      },
+      "background_parallax": "0",
+      "background_repeat": "no-repeat",
+      "background_size": "cover",
+      "background_size_custom": {
+        "unit": "px"
+      },
+      "background_attachment": "fixed",
+      "background_position": "0 0",
+      "background_position_custom_x": {
+        "unit": "px"
+      },
+      "background_position_custom_y": {
+        "unit": "px"
+      },
+      "external_background_video": "0",
+      "background_video_mp4": {
+        "src": ""
+      },
+      "background_video_ogv": {
+        "src": ""
+      },
+      "video_loop": 1,
+      "overlay_type": "overlay_none",
+      "gradient_overlay": {
+        "color": "rgba(127, 0, 255, 0.8)",
+        "color2": "rgba(225, 0, 255, 0.7)",
+        "deg": "45",
+        "type": "linear"
+      },
+      "pattern_overlay": "",
+      "overlay_pattern_color": "",
+      "blend_mode": "normal",
+      "row_border": 0,
+      "row_border_style": "",
+      "row_border_radius": {
+        "md": "0",
+        "sm": "",
+        "xs": ""
+      },
+      "row_boxshadow": {
+        "ho": "0",
+        "vo": "",
+        "blur": "0",
+        "spread": "",
+        "color": "",
+        "inset": false
+      },
+      "show_top_shape": 0,
+      "shape_name": "zigzag-sharp",
+      "shape_color": "#e5e5e5",
+      "shape_width": {
+        "md": "100",
+        "sm": 100,
+        "xs": 100
+      },
+      "shape_height": {
+        "md": "120",
+        "sm": "",
+        "xs": ""
+      },
+      "shape_flip": 0,
+      "shape_invert": 0,
+      "shape_to_front": 1,
+      "show_bottom_shape": 0,
+      "bottom_shape_name": "zigzag-sharp",
+      "bottom_shape_color": "#ffffff",
+      "bottom_shape_width": {
+        "md": "100",
+        "sm": 100,
+        "xs": 100
+      },
+      "bottom_shape_height": {
+        "md": "111",
+        "sm": "",
+        "xs": ""
+      },
+      "bottom_shape_flip": false,
+      "bottom_shape_invert": false,
+      "bottom_shape_to_front": 0,
+      "hidden_xs": 0,
+      "hidden_sm": 0,
+      "hidden_md": 0,
+      "animationduration": "300",
+      "animationdelay": "0",
+      "background_color": "#dfeeee",
+      "color": "#424A4F",
+      "instFormId": 1591849370916,
+      "row_border_width": {
+        "md": "   ",
+        "sm": "   ",
+        "xs": "   "
+      }
+    },
+    "layout": "12",
+    "columns": [
+      {
+        "id": 1633713458068,
+        "class_name": "col-md-12",
+        "visibility": true,
+        "settings": {
+          "background_type": "none",
+          "background_gradient": {
+            "color": "#00c6fb",
+            "color2": "#005bea",
+            "deg": "45",
+            "type": "linear"
+          },
+          "background_image": {
+            "src": ""
+          },
+          "background_repeat": "no-repeat",
+          "background_size": "cover",
+          "background_attachment": "scroll",
+          "background_position": "0 0",
+          "overlay_type": "overlay_color",
+          "gradient_overlay": {
+            "color": "rgba(127, 0, 255, 0.8)",
+            "color2": "rgba(225, 0, 255, 0.7)",
+            "deg": "45",
+            "type": "linear"
+          },
+          "pattern_overlay": {
+            "src": ""
+          },
+          "overlay_pattern_color": "",
+          "blend_mode": "normal",
+          "items_align_center": 0,
+          "items_content_alignment": "center",
+          "use_border": 0,
+          "border_width": "",
+          "border_radius": 0,
+          "boxshadow": "0 0 0 0 #fff",
+          "sm_col": "",
+          "xs_col": "",
+          "tablet_order": "",
+          "mobile_order": "",
+          "hidden_xs": 0,
+          "hidden_sm": 0,
+          "hidden_md": 0,
+          "animationduration": "3000",
+          "animationdelay": "0",
+          "padding": {
+            "md": "   ",
+            "sm": "   ",
+            "xs": "   "
+          },
+          "margin": {
+            "md": "   ",
+            "sm": "   ",
+            "xs": "   "
+          },
+          "background": "#f0f7f7",
+          "color": "",
+          "animation": "bounceInLeft"
+        },
+        "addons": [
+          {
+            "id": 1633713458069,
+            "name": "text_block",
+            "visibility": true,
+            "settings": {
+              "admin_label": "",
+              "title": "Technical Specifications of the Polysulfide Sealant Applicator",
+              "heading_selector": "h2",
+              "title_fontsize": "",
+              "title_lineheight": "",
+              "title_letterspace": "0",
+              "text": "<p>As explained above, using a polysulfide sealant applicator can improve sealant quality and make the sealing process on a double-glazed glass production line easier.<br />With the following features and capabilities, this machine addresses the problems that may arise from manual mixing and helps ensure sealant quality without air contamination.<br />Its technical specifications include:<br />Two-component drums, compatible with 360 kg drums<br />Fully pneumatic operation; no electrical power required<br />Original, high-performance pneumatic equipment and powerful cylinders<br />High-quality, standard components<br />Electrostatic powder coating with oven curing<br />Three-star Gold Warranty for 18 months<br />After-sales service and spare parts supply for 360 months</p>",
+              "alignment": "",
+              "text_fontsize": {
+                "md": "13",
+                "sm": "",
+                "xs": ""
+              },
+              "text_lineheight": "",
+              "text_fontweight": "",
+              "dropcap": 0,
+              "class": "",
+              "global_background_type": "none",
+              "global_background_gradient": {
+                "color": "#00c6fb",
+                "color2": "#005bea",
+                "deg": "45",
+                "type": "linear"
+              },
+              "global_background_image": {
+                "src": ""
+              },
+              "global_background_repeat": "no-repeat",
+              "global_background_size": "cover",
+              "global_background_attachment": "inherit",
+              "global_background_position": "50% 50%",
+              "global_use_overlay": 0,
+              "global_overlay_type": "overlay_none",
+              "global_gradient_overlay": {
+                "color": "rgba(127, 0, 255, 0.8)",
+                "color2": "rgba(225, 0, 255, 0.7)",
+                "deg": "45",
+                "type": "linear"
+              },
+              "global_pattern_overlay": {
+                "src": ""
+              },
+              "global_overlay_pattern_color": "",
+              "blend_mode": "normal",
+              "global_user_border": 0,
+              "global_border_width": "",
+              "global_border_radius": 0,
+              "global_margin": {
+                "md": "0px 0px 30px 0px",
+                "sm": "0px 0px 20px 0px",
+                "xs": "0px 0px 10px 0px"
+              },
+              "global_padding": {
+                "md": "   ",
+                "sm": "   ",
+                "xs": "   "
+              },
+              "global_boxshadow": "0 0 0 0 #ffffff",
+              "global_use_animation": 0,
+              "global_animationduration": "300",
+              "global_animationdelay": "0",
+              "global_custom_css": "",
+              "global_custom_position": 0,
+              "global_seclect_position": "relative",
+              "global_addon_position_left": {
+                "unit": "px"
+              },
+              "global_addon_position_top": {
+                "unit": "px"
+              },
+              "use_global_width": "0",
+              "hidden_md": "0",
+              "hidden_sm": "0",
+              "hidden_xs": "0",
+              "acl": "",
+              "while_scroll_view": [
+                {
+                  "enable_while_scroll_view": 0,
+                  "on_scroll_actions": [
+                    {
+                      "id": "b3fdc1c1e6bfde5942ea",
+                      "index": 0,
+                      "keyframe": 0,
+                      "name": "move",
+                      "property": {
+                        "x": "0",
+                        "y": "-100",
+                        "z": "0"
+                      },
+                      "range": {
+                        "max": 500,
+                        "min": -500,
+                        "stop": 1
+                      },
+                      "single": true,
+                      "title": "Move"
+                    },
+                    {
+                      "id": "936e0225e6dc8edfba7d",
+                      "index": 1,
+                      "keyframe": 100,
+                      "name": "move",
+                      "property": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0
+                      },
+                      "range": {
+                        "max": 500,
+                        "min": -500,
+                        "stop": 1
+                      },
+                      "single": true,
+                      "title": "Move"
+                    }
+                  ],
+                  "transition_origin_x": "center",
+                  "transition_origin_y": "center",
+                  "enable_tablet": 0,
+                  "enable_mobile": 0
+                }
+              ],
+              "mouse_movement": [
+                {
+                  "enable_tilt_effect": 0,
+                  "mouse_tilt_direction": "direct",
+                  "mouse_tilt_speed": "1",
+                  "mouse_tilt_max": "15",
+                  "enable_tablet": 0,
+                  "enable_mobile": 0
+                }
+              ],
+              "instFormId": 1591849370919
+            }
+          }
+        ]
+      }
+    ]
+  }
+]
